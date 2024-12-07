@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Vyzerá to, že máte verziu Championify, ktoré nemôžu byť aktualizované na to vlastné. Hit na Stiahnuť získate najnovšiu verziu!",
+  "error_1": "Vyskúšali ste spustiť program ako administrátor?",
+  "error_2": "Alebo váš anti-vírusový program/firewall blokuje Championify?",
+  "error_3": "Je internet zapnutý?",
+  "error_4": "Ak stále nefunguje, potrebujem vašu pomoc pri zlepšovaní a oprave Championify! S vaším dovolením a stlačením na \"Nahrať log\" sa môžem pozrieť na záznamy programu a zistiť tak v čom je problém. Žiadne osobné údaje nebudú vôbec odoslané. Vďaka!",
+  "invalid_path": "Neplatná cesta",
+  "select_folder": "Musíte najprv vybrať zložku!",
+  "something_broke": "Niečo sa pokazilo...",
+  "sure_thats_league": "Ste si istý že to je LoL?"
+}

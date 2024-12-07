@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "נתיב",
+    "mid": "אֶמצַע",
+    "middle": "Middle",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "פריטים המובילים kDa"
+  },
+  "game_modes": {
+    "all": "הכל",
+    "all_available": "שום דבר! הכל זמין!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "מגפיים",
+    "consumables": "פריטים חד-פעמיים",
+    "core_alternatives": "פריטים עיקריים חלופיים",
+    "core_items": "פריטים עיקריים",
+    "elixir": "אליקסר",
+    "endgame_items": "פריטים אחרונים",
+    "fifth_item": "הפריט חמישי",
+    "first_item": "פריט ראשון",
+    "fourth_item": "הפריט רביעי",
+    "second_item": "פריט שני",
+    "situational_items": "פריטים מצביים",
+    "starter": "התחלתי",
+    "starting_items": "החל פריטים",
+    "third_item": "פריט שלישי",
+    "trinkets": "טרינקטים"
+  },
+  "builds": {
+    "frequent": "תכוף ביותר",
+    "highest_core": "עיקריים הכי גבוהה",
+    "highest_items": "פריטים הגבוהים ביותר",
+    "highest_start": "התחלה הכי גבוהה",
+    "highest_win": "ניצחון הכי גבוהה",
+    "hw_core": "פריטים עיקריים בעלי אחוז הניצחנות הגבוהה ביותר",
+    "hw_items": "Win גבוה פריטי%",
+    "hw_starters": "פריטים התחלתיים בעלי אחוזי הניצחון הגבוהים ביותר",
+    "mf_core": "פריטים עיקריים הכי נפוצים",
+    "mf_items": "מרבית הפריטים תכופים",
+    "mf_starters": "פריטים התחלתיים הכי נפוצים",
+    "most_freq": "נפוץ ביותר"
+  },
+  "options": {
+    "options_aram": "הורד סטים לARAM",
+    "options_aram_tooltip": "הורד סטים לARAM מLolFlavor",
+    "options_consumables": "הראה פריטים חד-פעמיים",
+    "options_consumables_tooltip": "השבתה מתכלה, תאבד את הסדר מיומנות השכיח ביותר",
+    "options_dontdeleteold": "אל תמחק סטים ישנים",
+    "options_dontdeleteold_tooltip": "סטים ישנים לא ימחקו אם אין עדכון להם אך ימחקו כאשר סטים חדשים יותר ימצאו",
+    "options_locksr": "סטים רק יופיעו במפת Summoners Rift",
+    "options_locksr_tooltip": "סטים המיועדים לSummoners Rift יהיו זמינים על מפת Summoners Rift בלבד",
+    "options_skillsformat": "השתמש בקיצור להראות את סדר המיומנויות",
+    "options_skillsformat_tooltip": "במקום",
+    "options_splititems": "פצל סטים",
+    "options_splititems_tooltip": "צור סטים נפרדים לפריטים הכי נפוצים ולאחוז הנצחונות הגבוהות ביותר",
+    "options_trinkets": "הראה טרינקטים",
+    "options_trinkets_tooltip": "השבתת תכשיטים זולים, תאבד את ההסדר המיומן% Win הגבוה ביותר"
+  },
+  "status_messages": {
+    "downloading": "מוריד",
+    "downloading_champs": "מוריד דמויות מRiot",
+    "downloading_updates": "מוריד עדכונים...",
+    "extracting": "מוציא קבצים...",
+    "failed": "נכשל",
+    "processing": "מעבד",
+    "processing_rift": "מעבד Rift",
+    "sending": "שולך...",
+    "sent": "נשלך!"
+  },
+  "version_info": {
+    "cgg_version": "מקבל גרסה של Champion.gg",
+    "local_item_sets_version": "פריט מקומי מגדיר גרסה",
+    "local_items_version": "גרסת פריטים מקומיים",
+    "lol_version": "מקבל גרסת LoL"
+  },
+  "actions": {
+    "manual_update": "עדכון ידני",
+    "open_log": "פתח יומן",
+    "start_league": "התחל League of Legends",
+    "upload_log": "העלה יומן"
+  }
+}

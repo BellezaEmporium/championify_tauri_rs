@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Det verkar som om att du har en version av Championify som inte kan uppdateras automatiskt. Tryck på nedladdningsknappen för att få den senaste versionen!",
+  "error_1": "Har du försökt att köra som administratör?",
+  "error_2": "Eller ditt antivirusprogram / brandvägg blockerar Championify?",
+  "error_3": "Internet på?",
+  "error_4": "Om inte, jag behöver din hjälp vid fastställandet och förbättra Championify! Med din tillåtelse genom att trycka 'upp Log \"Jag kan se över loggfilen och se vad som gick fel på ditt system. Ingen personlig information någonsin skickats. Tack!",
+  "invalid_path": "Ogiltigt Path",
+  "select_folder": "Du måste välja din mapp först!",
+  "something_broke": "Något pank ...",
+  "sure_thats_league": "Är du säker att det är League?"
+}

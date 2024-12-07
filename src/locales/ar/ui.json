@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Lane",
+    "mid": "وسط",
+    "middle": "Middle",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "أعلى KDA الأصناف"
+  },
+  "game_modes": {
+    "all": "كل",
+    "all_available": "لا شيء! كل شيء متاح!",
+    "aram": "ِARAM"
+  },
+  "items": {
+    "boots": "الأحذية",
+    "consumables": "مستهلكات",
+    "core_alternatives": "البدائل الأساسية",
+    "core_items": "الأدوات الأساسية",
+    "elixir": "ترياق",
+    "endgame_items": "أدوات نهاية اللعبة",
+    "fifth_item": "الخامسة البند",
+    "first_item": "البند الأول",
+    "fourth_item": "الرابعة البند",
+    "second_item": "البند الثاني",
+    "situational_items": "الأدوات الظرفية",
+    "starter": "بداية",
+    "starting_items": "ابتداء من الأصناف",
+    "third_item": "البند الثالث",
+    "trinkets": "Trinkets"
+  },
+  "builds": {
+    "frequent": "متكرر",
+    "highest_core": "أكثر الأدوات الأساسية",
+    "highest_items": "أعلى الأصناف",
+    "highest_start": "أكثر أدوات البداية",
+    "highest_win": "أعلى فوز",
+    "hw_core": "أكثر بيلد أساسي فوز%",
+    "hw_items": "أعلى فوز٪ الأصناف",
+    "hw_starters": "أعلى فوز % بداية بنية",
+    "mf_core": "الأدوات الأساسية الأكثر شيوعاً",
+    "mf_items": "الأصناف الأكثر شيوعا",
+    "mf_starters": "أدوات البداية الأكثر شيوعاً",
+    "most_freq": "الأكثر شيوعا"
+  },
+  "options": {
+    "options_aram": "تحميل مجموعة أدوات ARAM",
+    "options_aram_tooltip": "تحميل مجموعة أدوات ARAM من LolFlavor",
+    "options_consumables": "تمكين المستهلكات",
+    "options_consumables_tooltip": "عن طريق تعطيل المواد الاستهلاكية، فسوف تفقد أجل المهارة الأكثر شيوعا",
+    "options_dontdeleteold": "لا تحذف مجموعات الأدوات القديمة.",
+    "options_dontdeleteold_tooltip": "الأدوات القديمة بدون معلومات الباتش الجديد لن تحذف، ولكن ستحذف عندما تتوفر مجموعة أدوات جديدة.",
+    "options_locksr": "تثبيت أدوات خريطة Summoner Rift.",
+    "options_locksr_tooltip": "أدوات السمنر ريفت ستتوفر فقط لخريطة السمنر ريفت",
+    "options_skillsformat": "أستعمال أختصار المهارات",
+    "options_skillsformat_tooltip": "بدلا من",
+    "options_splititems": "تقسيم مجموعات الأدوات",
+    "options_splititems_tooltip": "إنشاء مجموعات أدوات منفصلة للأكثر شيوعا وأعلى % فوز.",
+    "options_trinkets": "تمكين Trinkets.",
+    "options_trinkets_tooltip": "عن طريق تعطيل الحلي، فسوف تفقد أعلى حقق الفوز بهدف٪ مهارة"
+  },
+  "status_messages": {
+    "downloading": "جارى التحميل",
+    "downloading_champs": "تحميل الأبطال من RIOT",
+    "downloading_updates": "تحميل التحديثات...",
+    "extracting": "استخراج ...",
+    "failed": "فشل",
+    "processing": "معالجة",
+    "processing_rift": "جارى معالجة ال Rift",
+    "sending": "يرسل ...",
+    "sent": "أرسلت!"
+  },
+  "version_info": {
+    "cgg_version": "الحصول على نسخة Champion.gg",
+    "local_item_sets_version": "البند المحلية مجموعات النسخة",
+    "local_items_version": "النسخة الأصناف المحلية",
+    "lol_version": "الحصول على نسخة LoL"
+  },
+  "actions": {
+    "manual_update": "تحديث يدوي",
+    "open_log": "فتح التقرير",
+    "start_league": "إبدأ League of Legends",
+    "upload_log": "تحديث التقرير"
+  }
+}

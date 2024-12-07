@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "एडीसी",
+    "jungle": "जंगल",
+    "lane": "गली",
+    "mid": "मध्य",
+    "middle": "मध्य",
+    "support": "समर्थन",
+    "top": "चोटी",
+    "top_kda_items": "शीर्ष केडीए आइटम"
+  },
+  "game_modes": {
+    "all": "सब",
+    "all_available": "कुछ भी तो नहीं! सब कुछ उपलब्ध है!",
+    "aram": "अराम"
+  },
+  "items": {
+    "boots": "जूते",
+    "consumables": "उपभोग्य",
+    "core_alternatives": "कोर विकल्प",
+    "core_items": "कोर आइटम",
+    "elixir": "अमृत",
+    "endgame_items": "एंडगैम आइटम",
+    "fifth_item": "पांचवें आइटम",
+    "first_item": "पहले आइटम",
+    "fourth_item": "चौथा मद",
+    "second_item": "दूसरा आइटम",
+    "situational_items": "परिस्थितिजनक वस्तुएँ",
+    "starter": "स्टार्टर",
+    "starting_items": "प्रारंभिक आइटम",
+    "third_item": "तीसरा मद",
+    "trinkets": "trinkets"
+  },
+  "builds": {
+    "frequent": "बारंबार",
+    "highest_core": "उच्चतम कोर",
+    "highest_items": "उच्चतम आइटम",
+    "highest_start": "उच्चतम प्रारंभ",
+    "highest_win": "सर्वोच्च विन",
+    "hw_core": "उच्चतम विन% कोर बिल्ड",
+    "hw_items": "सर्वोच्च विन% आइटम",
+    "hw_starters": "उच्चतम विन% स्टार्टर्स",
+    "mf_core": "सर्वाधिक बार-बार कोर बिल्ड",
+    "mf_items": "सर्वाधिक बार-बार आइटम",
+    "mf_starters": "सर्वाधिक बार-बार शुरुआती",
+    "most_freq": "बहुत लगातार"
+  },
+  "options": {
+    "options_aram": "एआरएएम मद सेट डाउनलोड करें",
+    "options_aram_tooltip": "एलओएलएफ़एवर से एआरएएम मद सेट डाउनलोड करें",
+    "options_consumables": "उपभोगक्षमता सक्षम करें",
+    "options_consumables_tooltip": "उपभोग्य वस्तुओं को अक्षम करके, आप अधिकतर कौशल कौशल को खो देंगे",
+    "options_dontdeleteold": "पुरानी आइटम सेटों को न हटाएं",
+    "options_dontdeleteold_tooltip": "नई पैच जानकारी के बिना पुराने आइटम सेट नहीं हटाए जाएंगे, हालांकि नए आइटम सेट उपलब्ध होने पर उन्हें हटा दिया जाएगा",
+    "options_locksr": "लॉक समॉनर रिफ्ट आइटम सेट मैप करने के लिए",
+    "options_locksr_tooltip": "Summoners दरार के लिए सेट आइटम सेट केवल Summoners दरार नक्शा पर उपलब्ध हो जाएगा",
+    "options_skillsformat": "कौशल आदेश के लिए शॉर्टहैंड का उपयोग करें",
+    "options_skillsformat_tooltip": "के बजाय",
+    "options_splititems": "स्प्लिट अप मद सेट्स",
+    "options_splititems_tooltip": "सबसे अधिक वांछित और उच्चतम विन% के लिए अलग आइटम सेट बनाएं",
+    "options_trinkets": "ट्रेंकेट्स को सक्षम करें",
+    "options_trinkets_tooltip": "Trinkets अक्षम करके, आप उच्चतम विन% कौशल आदेश खो देंगे"
+  },
+  "status_messages": {
+    "downloading": "डाउनलोड कर रहा है",
+    "downloading_champs": "दंगा से चैंप्स डाउनलोड करना",
+    "downloading_updates": "अद्यतन को डाउनलोड किया जा रहा हैं...",
+    "extracting": "निकाल रहा है ...",
+    "failed": "अनुत्तीर्ण होना",
+    "processing": "प्रसंस्करण",
+    "processing_rift": "प्रसंस्करण दरार",
+    "sending": "भेजना...",
+    "sent": "भेज दिया!"
+  },
+  "version_info": {
+    "cgg_version": "चैंपियन। जीसीसी संस्करण प्राप्त करना",
+    "local_item_sets_version": "स्थानीय आइटम का संस्करण संस्करण",
+    "local_items_version": "स्थानीय आइटम संस्करण",
+    "lol_version": "लोल वर्जन प्राप्त करना"
+  },
+  "actions": {
+    "manual_update": "मैनुअल अपडेट",
+    "open_log": "लॉग खोलें",
+    "start_league": "किंवदंतियों का लीग प्रारंभ करें",
+    "upload_log": "लॉग अपलोड करें"
+  }
+}

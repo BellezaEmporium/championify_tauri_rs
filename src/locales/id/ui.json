@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Rimba",
+    "lane": "Jalur",
+    "mid": "Tengah",
+    "middle": "Tengah",
+    "support": "Mendukung",
+    "top": "Teratas",
+    "top_kda_items": "Top KDA Item"
+  },
+  "game_modes": {
+    "all": "Semua",
+    "all_available": "Tidak ada! Semuanya tersedia!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Sepatu bot",
+    "consumables": "Consumables",
+    "core_alternatives": "Alternatif inti",
+    "core_items": "Produk inti",
+    "elixir": "Eliksir",
+    "endgame_items": "Endgame Item",
+    "fifth_item": "kelima Barang",
+    "first_item": "Barang pertama",
+    "fourth_item": "keempat Barang",
+    "second_item": "kedua Barang",
+    "situational_items": "Situasional Item",
+    "starter": "Starter",
+    "starting_items": "mulai Item",
+    "third_item": "Barang ketiga",
+    "trinkets": "Pernak-pernik"
+  },
+  "builds": {
+    "frequent": "Sering",
+    "highest_core": "Inti tertinggi",
+    "highest_items": "Produk tertinggi",
+    "highest_start": "Mulai tertinggi",
+    "highest_win": "Win tertinggi",
+    "hw_core": "Tertinggi Win% Inti Bangun",
+    "hw_items": "% Produk Win tertinggi",
+    "hw_starters": "Tertinggi Win% Pemula",
+    "mf_core": "Kebanyakan Sering Inti Bangun",
+    "mf_items": "Kebanyakan Sering Item",
+    "mf_starters": "Memulai paling Sering",
+    "most_freq": "Kebanyakan Sering"
+  },
+  "options": {
+    "options_aram": "Ambil ARAM Barang Set",
+    "options_aram_tooltip": "Ambil ARAM Item set dari LolFlavor",
+    "options_consumables": "Aktifkan Consumables",
+    "options_consumables_tooltip": "Dengan menonaktifkan habis, Anda akan kehilangan urutan skill Paling Sering",
+    "options_dontdeleteold": "Jangan Hapus Usang Barang Set",
+    "options_dontdeleteold_tooltip": "Item lama set tanpa informasi Patch baru tidak akan dihapus, namun mereka akan dihapus jika item set baru menjadi tersedia",
+    "options_locksr": "Lock Summoner ini Rift Barang Set Untuk Petakan",
+    "options_locksr_tooltip": "Item set dimaksudkan untuk Summoners Rift hanya akan tersedia di peta Summoners Rift.",
+    "options_skillsformat": "Gunakan Singkatan untuk Keterampilan Orde",
+    "options_skillsformat_tooltip": "Dari pada",
+    "options_splititems": "Berpisah Up Barang Set",
+    "options_splititems_tooltip": "Buat set item yang terpisah untuk Sebagian Sering dan tertinggi Win%",
+    "options_trinkets": "Aktifkan Pernak-pernik",
+    "options_trinkets_tooltip": "Dengan menonaktifkan pernak-pernik, Anda akan kehilangan Win rangka% skill tertinggi"
+  },
+  "status_messages": {
+    "downloading": "Download",
+    "downloading_champs": "Download Champs dari kerusuhan",
+    "downloading_updates": "Men-download Update ...",
+    "extracting": "Penggalian ...",
+    "failed": "Gagal",
+    "processing": "Pengolahan",
+    "processing_rift": "Pengolahan Rift",
+    "sending": "Mengirim ...",
+    "sent": "Dikirim!"
+  },
+  "version_info": {
+    "cgg_version": "Mendapatkan Champion.gg Versi",
+    "local_item_sets_version": "Barang lokal Set Versi",
+    "local_items_version": "Produk lokal Versi",
+    "lol_version": "Mendapatkan LoL Versi"
+  },
+  "actions": {
+    "manual_update": "Pengguna pembaruan",
+    "open_log": "Buka Log",
+    "start_league": "Mulai League of Legends",
+    "upload_log": "Upload Log"
+  }
+}

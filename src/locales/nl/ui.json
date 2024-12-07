@@ -1,0 +1,86 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Lane",
+    "mid": "Midden",
+    "middle": "Midden",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "Top KDA Items"
+  },
+  "game_modes": {
+    "all": "Alle",
+    "all_available": "Niets! Alles is beschikbaar!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Laarzen",
+    "consumables": "Consumpties",
+    "core_alternatives": "Kern Alternatieven",
+    "core_items": "Belangrijkste onderdelen",
+    "elixir": "Elixer",
+    "endgame_items": "Eindspel Voorwerpen",
+    "fifth_item": "vijfde Item",
+    "first_item": "eerste item",
+    "fourth_item": "vierde Item",
+    "second_item": "tweede Item",
+    "situational_items": "Situationeel Items",
+    "starter": "Starter",
+    "starting_items": "Vanaf items",
+    "third_item": "derde Item",
+    "trinkets": "Trinkets"
+  },
+  "builds": {
+    "frequent": "Vaak",
+    "highest_core": "Hoogste Kern",
+    "highest_items": "hoogste items",
+    "highest_start": "Hoogste Start",
+    "highest_win": "Hoogste Win",
+    "hw_core": "Hoogste Win % Kern Bouw",
+    "hw_items": "Hoogste Win% Artikelen",
+    "hw_starters": "Hoogste Win % Starters",
+    "mf_core": "Meest Gebruikte Kern Bouw",
+    "mf_items": "De meeste frequente Items",
+    "mf_starters": "Meest Gebruikte Starters",
+    "most_freq": "Meest Frequent"
+  },
+  "options": {
+    "options_aram": "Download Aram Voorwerp Sets",
+    "options_consumables": "Schakel Consumables In",
+    "options_consumables_tooltip": "Door het uitschakelen van verbruiksartikelen, kunt u de meest voorkomende vaardigheid orde te verliezen",
+    "options_dontdeleteold": "Verouderde Voorwerp Sets Niet Verwijderen",
+    "options_dontdeleteold_tooltip": "Oude artikelgroepen zonder nieuwe patch informatie worden niet verwijderd, ze zullen echter wel worden verwijderd als nieuwere voorwerp sets beschikbaar worden",
+    "options_locksr": "Zet Summoner's Rift Voorwerp Sets Vast aan de Map",
+    "options_locksr_tooltip": "Artikelgroepen bedoeld voor Summoners Rift zullen alleen beschikbaar zijn op de map van Summoners Rift",
+    "options_skillsformat": "Gebruik afkortingen voor Skill volgorde",
+    "options_skillsformat_tooltip": "In plaats van",
+    "options_splititems": "Splits Voorwerp Sets Op",
+    "options_splititems_tooltip": "Maak afzonderlijke Artikelgroepen voor de Meest Frequente en Hoogste Win %",
+    "options_trinkets": "Schakel Trinkets In",
+    "options_trinkets_tooltip": "Door het uitschakelen van snuisterijen, dan heb je de grootste overwinning% skill orde te verliezen"
+  },
+  "status_messages": {
+    "downloading": "Aan het downloaden",
+    "downloading_champs": "Champions aan het downloaden van Riot",
+    "downloading_updates": "Updates aan het downloaden...",
+    "extracting": "Uitpakken...",
+    "failed": "Mislukt",
+    "processing": "Aan het verwerken",
+    "processing_rift": "De Rift aan het verwerken",
+    "sending": "Aan het verzenden...",
+    "sent": "Verzonden!"
+  },
+  "version_info": {
+    "cgg_version": "Champion.gg versie verkrijgen",
+    "local_item_sets_version": "Lokale Item Sets Version",
+    "local_items_version": "Local Items Version",
+    "lol_version": "LoL Versie aan het Verkrijgen"
+  },
+  "actions": {
+    "manual_update": "Handmatige Update",
+    "open_log": "Open Log bestand",
+    "start_league": "Start League of Legends",
+    "upload_log": "Upload Log"
+  }
+}

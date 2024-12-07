@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Panašu, jog jūs turite Championify versija, kuri negali būti atnaujinama savaime. Spauskite siuntimosi mygtuką ir gaukite naujausią versiją!",
+  "error_1": "Ar bandėte paleisti programą naudojantis administratoriaus teisėmis?",
+  "error_2": "Ar jūsų antivirusinė/ugniasienė blokuoja Championify?",
+  "error_3": "Ar įjungtas internetas?",
+  "error_4": "Jeigu ne, man reikės jūsų pagalbos Championify tvarkymui ir tobulinimui! Su jūsų leidimu paspaudus 'Įkelti įrašus' aš galiu peržvelgti kas įvyko klaidingo jūsų sistemoje. Jokie asmeniniai duomenys nesiunčiami. Ačiū!",
+  "invalid_path": "Neteisinga direktorija",
+  "select_folder": "Pirma jums reikia pasirinkti aplanką!",
+  "something_broke": "Kažkas sugedo...",
+  "sure_thats_league": "Jūs tikri, kad tai League of Legends?"
+}

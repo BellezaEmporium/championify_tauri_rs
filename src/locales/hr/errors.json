@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Čini se kao da imate verziju Championify koji se ne može ažurirati na vlastitu. Hit gumb Preuzmi da biste dobili najnoviju verziju!",
+  "error_1": "Jeste li probati trčanje kao admin?",
+  "error_2": "Ili vaš antivirusni / firewall blokira Championify?",
+  "error_3": "Internet na?",
+  "error_4": "Ako ne, trebam vašu pomoć u utvrđivanju i poboljšanju Championify! Uz vašu dozvolu od udarca 'Postavi Prijava' Mogu gledati preko log datoteku i vidjeti što je pošlo po zlu na vašem sustavu. Nema osobni podaci nikada šalju. Hvala!",
+  "invalid_path": "Pogrešna Put",
+  "select_folder": "Morate odabrati mapu na prvom mjestu!",
+  "something_broke": "Nešto razbio ...",
+  "sure_thats_league": "Jeste li sigurni da je to liga?"
+}

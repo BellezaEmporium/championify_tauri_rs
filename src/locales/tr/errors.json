@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Görünüşe göre Championify sürümünüz otomatik güncellenmeyi desteklemiyor. En son sürümü edinmek için \"İndir \"düğmesine basın!",
+  "error_1": "Yönetici olarak çalıştırmayı denediniz mi?",
+  "error_2": "Ya da antivirüs / güvenlik duvarı Championify'ı engelliyor olabilir mi?",
+  "error_3": "Internet aktif mi?",
+  "error_4": "Değilse,  Championify iyileştirilmesi ve geliştirilmesi için sizin yardımınıza ihtiyacımız var! 'Veriyi Yükle' butonuna basarsanız sorunun ne olduğunu görebilir ve yardımcı olabilirim. Kişisel hiçbir veriniz bize ulaşmaz!",
+  "invalid_path": "Geçersiz Klasör Adresi",
+  "select_folder": "Öncelikle klasörü seçmeniz gerekir!",
+  "something_broke": "Birşey bozuldu ...",
+  "sure_thats_league": "Bunun LoL klasörü olduğuna emin misin?"
+}

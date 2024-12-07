@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Seems like you have a version of Championify that can't be updated on it's own. Hit the download button to get the latest version!",
+  "error_1": "Did you try running as admin?",
+  "error_2": "Or your antivirus/firewall is blocking Championify?",
+  "error_3": "Internet on?",
+  "error_4": "If not, I need your help in fixing and improving Championify! With your permission by hitting 'Upload Log' I can look over the log file and see what went wrong on your system. No personal information is ever sent. Thanks!",
+  "invalid_path": "Invalid Path",
+  "select_folder": "You need to select your folder first!",
+  "something_broke": "Something broke...",
+  "sure_thats_league": "You sure that's League?"
+}

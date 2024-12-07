@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "원거리 딜러",
+    "jungle": "정글",
+    "lane": "라인",
+    "mid": "중간",
+    "middle": "미드",
+    "support": "서폿",
+    "top": "탑",
+    "top_kda_items": "최고 KDA 항목"
+  },
+  "game_modes": {
+    "all": "모든",
+    "all_available": "없어요! 모든 기능을 사용할 수 있습니다!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "부츠",
+    "consumables": "소모품",
+    "core_alternatives": "코어 대안",
+    "core_items": "핵심 항목",
+    "elixir": "불로 불사의 영약",
+    "endgame_items": "최종회 항목",
+    "fifth_item": "다섯 번째 항목",
+    "first_item": "첫 번째 항목",
+    "fourth_item": "네 번째 항목",
+    "second_item": "두 번째 항목",
+    "situational_items": "상황 적 항목",
+    "starter": "초보",
+    "starting_items": "항목 시작",
+    "third_item": "세 번째 항목",
+    "trinkets": "장신구"
+  },
+  "builds": {
+    "frequent": "많이 사용되는",
+    "highest_core": "높은 코어템",
+    "highest_items": "가장 높은 항목",
+    "highest_start": "높은 시작템",
+    "highest_win": "가장 높은 승률",
+    "hw_core": "가장 높은 승률 코어템 빌드",
+    "hw_items": "최고 승리 % 항목",
+    "hw_starters": "가장 높은 승률의 시작템",
+    "mf_core": "가장 흔한 코어 빌드",
+    "mf_items": "대부분의 상용 항목",
+    "mf_starters": "가장 흔한 기동",
+    "most_freq": "많이 사용되는"
+  },
+  "options": {
+    "options_aram": "아람 항목 세트를 다운로드",
+    "options_aram_tooltip": "LolFlavor에서 아람 아이템 세트를 다운로드",
+    "options_consumables": "소모품 적용",
+    "options_consumables_tooltip": "소모품을 사용하지 않도록 설정하면 가장 자주 스킬 순서를 잃게됩니다",
+    "options_dontdeleteold": "오래된 아이템 세트를 삭제하지 마세요",
+    "options_dontdeleteold_tooltip": "새로운 패치 없이는 오래된 아이템 세트가 지워지지 않으나, 새로운 아이템 세트가 적용 가능하면 지워집니다",
+    "options_locksr": "소환사의 협곡 아이템 세트를 해당 맵에 잠그기",
+    "options_locksr_tooltip": "소환사의 협곡을 위한 아이템 세트는 소환사의 협곡에서만 사용가능합니다.",
+    "options_skillsformat": "스킬 순서를 간단히 사용",
+    "options_skillsformat_tooltip": "대신",
+    "options_splititems": "아이템 세트를 나눠 사용",
+    "options_splititems_tooltip": "가장 흔한 아이템 세트와 가장 높은 승률의 아이템 세트 따로 생성",
+    "options_trinkets": "장신구 적용",
+    "options_trinkets_tooltip": "장신구를 사용하지 않도록함으로써, 당신은 최고 승률 스킬 순서를 잃게됩니다"
+  },
+  "status_messages": {
+    "downloading": "다운로드중",
+    "downloading_champs": "라이엇에서 챔피언 다운로드중",
+    "downloading_updates": "업데이트 다운로드중...",
+    "extracting": "추출중 ...",
+    "failed": "실패",
+    "processing": "처리중",
+    "processing_rift": "소환사의 협곡 프로세스중",
+    "sending": "보내는 중 ...",
+    "sent": "보냈습니다!"
+  },
+  "version_info": {
+    "cgg_version": "Champion.gg 버전 받아오는중",
+    "local_item_sets_version": "지역 항목 버전을 설정합니다",
+    "local_items_version": "로컬 항목 버전",
+    "lol_version": "LOL 버전 받는중"
+  },
+  "actions": {
+    "manual_update": "수동 업데이트",
+    "open_log": "로그 열기",
+    "start_league": "리그오브 레젠드 시작",
+    "upload_log": "로그 업로드"
+  }
+}

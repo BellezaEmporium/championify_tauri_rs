@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="<%= locale %>">
+<head>
+  <%- include('components/partials/head', { t: t })%>
+</head>
+<body>
+  <header>
+    <%- include('components/partials/header', { t: t, input: input }) %>
+  </header>
+  <main>
+    <%- body %>
+  </main>
+  <footer>
+    <%- include('components/partials/footer', { t: t }) %>
+  </footer>
+</body>
+</html>

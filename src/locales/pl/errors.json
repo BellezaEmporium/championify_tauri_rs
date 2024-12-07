@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Wygląda na to, że twoja wersja aplikacji Championify nie może zaaktualizować się sama. Wciśnij przycisk Pobierz, aby pobrać najnowszą wersję!",
+  "error_1": "Czy próbowałeś uruchomić Championify jako administrator?",
+  "error_2": "A może twój antywirus / firewall blokuje Championify?",
+  "error_3": "Czy masz włączony internet?",
+  "error_4": "Jeśli nie, pomóż mi w naprawianiu i ulepszaniu Championify! Za Twoją zgodą wyrażoną przez naciśnięcie \"Prześlij raport\" będę mógł obejrzeć raport błędów i zobaczyć, co poszło nie tak w systemie. Dane osobowe nie są przesyłane. Dzięki!",
+  "invalid_path": "Nieprawidłowa ścieżka",
+  "select_folder": "Najpierw wybierz folder!",
+  "something_broke": "Coś poszło nie tak...",
+  "sure_thats_league": "Jesteś pewien, że wskazany folder zawiera pliki gry?"
+}

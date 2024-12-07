@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Lane",
+    "mid": "Meio",
+    "middle": "Mid",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "Itens Top KDA"
+  },
+  "game_modes": {
+    "all": "Tudo",
+    "all_available": "Nada! Está tudo disponível!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Botas",
+    "consumables": "Consumíveis",
+    "core_alternatives": "Alternativas dos essenciais",
+    "core_items": "Itens essenciais",
+    "elixir": "Elixir",
+    "endgame_items": "Itens de Fim de Jogo",
+    "fifth_item": "quinto item",
+    "first_item": "primeiro item",
+    "fourth_item": "quarto item",
+    "second_item": "segundo item",
+    "situational_items": "Itens situacionais",
+    "starter": "Inicial",
+    "starting_items": "começando Itens",
+    "third_item": "terceiro item",
+    "trinkets": "Trinkets"
+  },
+  "builds": {
+    "frequent": "Frequente",
+    "highest_core": "Maior essencial",
+    "highest_items": "Máximas Itens",
+    "highest_start": "Maior início",
+    "highest_win": "Maior vitória",
+    "hw_core": "Maior % de vitória build essencial",
+    "hw_items": "Máximas% Itens Vence",
+    "hw_starters": "Maior % de vitória itens iniciais",
+    "mf_core": "Itens essenciais mais frequentes",
+    "mf_items": "Itens mais frequentes",
+    "mf_starters": "Itens iniciais mais frequentes",
+    "most_freq": "Mais frequente"
+  },
+  "options": {
+    "options_aram": "Descarregar conjuntos de itens de ARAM",
+    "options_aram_tooltip": "Descarregar conjuntos de itens de ARAM do LolFlavor",
+    "options_consumables": "Ativar consumíveis",
+    "options_consumables_tooltip": "Ao desativar consumíveis, você vai perder a ordem habilidade mais frequentes",
+    "options_dontdeleteold": "Não apagar os conjuntos de itens desatualizados",
+    "options_dontdeleteold_tooltip": "Os antigos conjuntos de itens sem novas informações do patch não serão excluídos, no entanto, serão apagados se mais recentes estiverem disponíveis",
+    "options_locksr": "Bloquear os conjuntos de itens apenas para o mapa Summoner's Rift",
+    "options_locksr_tooltip": "Conjuntos de itens destinados para Summoner's Rift só estarão disponíveis no mapa Summoner's Rift.",
+    "options_skillsformat": "Usar abreviação para ordem das habilidades",
+    "options_skillsformat_tooltip": "Ao invés de",
+    "options_splititems": "Dividir os conjuntos de itens",
+    "options_splititems_tooltip": "Criar conjuntos de itens separados para mais frequentes e mais elevada % vitória",
+    "options_trinkets": "Ativar trinkets",
+    "options_trinkets_tooltip": "Ao desativar bugigangas, você vai perder a vitória mais elevada ordem% de habilidade"
+  },
+  "status_messages": {
+    "downloading": "A descarregar",
+    "downloading_champs": "A descarregar os campeões da Riot",
+    "downloading_updates": "A descarregar atualizações...",
+    "extracting": "A extrair...",
+    "failed": "Falhou",
+    "processing": "A processar",
+    "processing_rift": "A processar o Rift",
+    "sending": "A enviar ...",
+    "sent": "Enviado!"
+  },
+  "version_info": {
+    "cgg_version": "A obter a versão de Champion.gg",
+    "local_item_sets_version": "Item local Define Versão",
+    "local_items_version": "Itens locais Versão",
+    "lol_version": "A obter a versão do LoL"
+  },
+  "actions": {
+    "manual_update": "Atualização manual",
+    "open_log": "Abrir registo",
+    "start_league": "Iniciar o League of Legends",
+    "upload_log": "Carregar registo"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Lane",
+    "mid": "Tengah",
+    "middle": "Middle",
+    "support": "Sokongan",
+    "top": "Top",
+    "top_kda_items": "Item Top KDA"
+  },
+  "game_modes": {
+    "all": "Semua",
+    "all_available": "Tiada apa-apa! Segala-galanya boleh didapati!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "But",
+    "consumables": "Consumables",
+    "core_alternatives": "Alternatif Teras",
+    "core_items": "Item Teras",
+    "elixir": "Elixir",
+    "endgame_items": "Item Endgame",
+    "fifth_item": "Perkara kelima",
+    "first_item": "Perkara pertama",
+    "fourth_item": "Perkara keempat",
+    "second_item": "Perkara kedua",
+    "situational_items": "Item situasi",
+    "starter": "Permulaan",
+    "starting_items": "bermula Item",
+    "third_item": "Perkara ketiga",
+    "trinkets": "Trinkets"
+  },
+  "builds": {
+    "frequent": "Kerap",
+    "highest_core": "Teras Tertinggi",
+    "highest_items": "Item tertinggi",
+    "highest_start": "Permulaan Tertinggi",
+    "highest_win": "Menang Tertinggi",
+    "hw_core": "Binaan Teras % Menang Tertinggi",
+    "hw_items": "Tertinggi Win% Item",
+    "hw_starters": "Binaan Permulaan % Menang Tertinggi",
+    "mf_core": "Binaan Teras Paling Kerap",
+    "mf_items": "Item yang paling kerap digunakan",
+    "mf_starters": "Binaan Permulaan Paling Kerap",
+    "most_freq": "Paling Kerap"
+  },
+  "options": {
+    "options_aram": "Muat turun ARAM Perkara Set",
+    "options_aram_tooltip": "Muat turun ARAM item set dari LolFlavor",
+    "options_consumables": "Membolehkan Consumables",
+    "options_consumables_tooltip": "Dengan mematikan habis, anda akan kehilangan perintah kemahiran yang paling kerap digunakan",
+    "options_dontdeleteold": "Jangan Padam Set Item Lama",
+    "options_dontdeleteold_tooltip": "Set item lama tanpa maklumat patch baru tidak akan dipadamkan, namun mereka akan dipadam jika set item baru menjadi tersedia",
+    "options_locksr": "Kunci Set Item Summoner's Rift Untuk Peta",
+    "options_locksr_tooltip": "Set item yang bertujuan untuk Summoners Rift hanya boleh didapati di peta Summoners Rift.",
+    "options_skillsformat": "Gunakan Susunan Skill yang Teringkas",
+    "options_skillsformat_tooltip": "Daripada",
+    "options_splititems": "Memisahkan Set Item",
+    "options_splititems_tooltip": "Membina set item yang berasingan untuk Paling Kerap dan % Menang Tertinggi",
+    "options_trinkets": "Membolehkan Trinkets",
+    "options_trinkets_tooltip": "Dengan mematikan perhiasan, anda akan kehilangan Win perintah% kemahiran Tertinggi"
+  },
+  "status_messages": {
+    "downloading": "Memuat turun",
+    "downloading_champs": "Memuat turun Champs dari Riot",
+    "downloading_updates": "Memuat Turun Updates...",
+    "extracting": "Mengekstrak ...",
+    "failed": "Gagal",
+    "processing": "Memproses",
+    "processing_rift": "Memproses Rift",
+    "sending": "Menghantar ...",
+    "sent": "Dihantar!"
+  },
+  "version_info": {
+    "cgg_version": "Mendapatkan Versi Champion.gg",
+    "local_item_sets_version": "Perkara tempatan Set Version",
+    "local_items_version": "Item tempatan Version",
+    "lol_version": "Mendapatkan Versi LoL"
+  },
+  "actions": {
+    "manual_update": "Update Manual",
+    "open_log": "Buka Log",
+    "start_league": "Mula League of Legends",
+    "upload_log": "Muat naik Log"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Džiunglės",
+    "lane": "Takas",
+    "mid": "vidurys",
+    "middle": "Vidurys",
+    "support": "Pagalba",
+    "top": "Į viršų",
+    "top_kda_items": "Į viršų kDa daiktai"
+  },
+  "game_modes": {
+    "all": "Visi",
+    "all_available": "Nieko! Viskas yra prieinama!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Batai",
+    "consumables": "Panaudojami daiktai",
+    "core_alternatives": "Pagrindinių prekių alternatyvos",
+    "core_items": "Pagrindinės prekės",
+    "elixir": "Eliksyras",
+    "endgame_items": "Prekės žaidimo pabaigai",
+    "fifth_item": "penktasis punktas",
+    "first_item": "pirmas elementas",
+    "fourth_item": "Ketvirta punktas",
+    "second_item": "antras punktas",
+    "situational_items": "Situacinės prekės",
+    "starter": "Pradinės",
+    "starting_items": "Nuo daiktai",
+    "third_item": "trečia punktas",
+    "trinkets": "Regėjimo prekės"
+  },
+  "builds": {
+    "frequent": "Dažnas",
+    "highest_core": "Aukščiausias pagrindinis",
+    "highest_items": "aukščiausios daiktai",
+    "highest_start": "Aukščiausia pradžia",
+    "highest_win": "Aukščiausias laimėjimas",
+    "hw_core": "Dažniausiai laiminčios pagrindinės prekės",
+    "hw_items": "Aukščiausios Laimėk% daiktai",
+    "hw_starters": "Dažniausiai laiminčios pagrindinės prekės",
+    "mf_core": "Dažniausiai naudojamos pagrindinės prekės",
+    "mf_items": "Dažniausi daiktai",
+    "mf_starters": "Dažniausiai naudojamos pradinės prekės",
+    "most_freq": "Dažniausi"
+  },
+  "options": {
+    "options_aram": "Parsisiųsti Aram prekių rinkinius",
+    "options_aram_tooltip": "Parsisiųsti Aram prekių rinkinius iš LolFlavor",
+    "options_consumables": "Įjungti vartojamus daiktus",
+    "options_consumables_tooltip": "Išjungus vartojimo, jūs prarasite dažniausių įgūdžių tvarką",
+    "options_dontdeleteold": "Neištrinti pasenusių prekių rinkinių",
+    "options_dontdeleteold_tooltip": "Seni prekių rinkiniai nebus ištrinti jei jiems nebus rasta nauja versija, tačiau jie bus pakeisti jei nauja versija bus rasta",
+    "options_locksr": "Summoners Rift prekių rinkinius rodyti tik šiame žemėlapyje",
+    "options_locksr_tooltip": "Prekių rinkiniai skirti Summoners Rift žemėlapiui bus rodomi tik Summoners Rift žemėlapyje",
+    "options_skillsformat": "Naudoti sutrumpintą įgūdžių seką",
+    "options_skillsformat_tooltip": "Vietoj",
+    "options_splititems": "Išskaidyti prekių rinkinius",
+    "options_splititems_tooltip": "Sukurti atskirus prekių rinkinius dažniausiai naudojamiems, ir dažniausiai laimintiems % prekių rinkiniams",
+    "options_trinkets": "Įjungti regėjimo prekes",
+    "options_trinkets_tooltip": "Išjungus niekučių, jūs prarasite Didžiausias laimėjimas% įgūdžių tvarką"
+  },
+  "status_messages": {
+    "downloading": "Siunčiamasi",
+    "downloading_champs": "Siunčiami čempionai iš Riot",
+    "downloading_updates": "Siunčiami atnaujinimai...",
+    "extracting": "Išskleidžiama...",
+    "failed": "Nepavyko",
+    "processing": "Apdorojama",
+    "processing_rift": "Apdorojamas Riftas",
+    "sending": "Siunčiama...",
+    "sent": "Išsiųsta!"
+  },
+  "version_info": {
+    "cgg_version": "Gaunama Champion.gg versija",
+    "local_item_sets_version": "Vietinis punktas Komplektai versija",
+    "local_items_version": "Vietos Daiktai Versija",
+    "lol_version": "Gaunama LoL versija"
+  },
+  "actions": {
+    "manual_update": "Rankinis atnaujinimas",
+    "open_log": "Atidaryti įrašus",
+    "start_league": "Pradėti League of Legends",
+    "upload_log": "Įkelti įrašus"
+  }
+}

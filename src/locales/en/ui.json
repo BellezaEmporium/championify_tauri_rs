@@ -1,0 +1,86 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Lane",
+    "mid": "Middle",
+    "middle": "Middle",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "Top KDA Items"
+  },
+  "game_modes": {
+    "all": "All",
+    "all_available": "Nothing! Everything is available!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Boots",
+    "consumables": "Consumables",
+    "core_alternatives": "Core Alternatives",
+    "core_items": "Core Items",
+    "elixir": "Elixir",
+    "endgame_items": "Endgame Items",
+    "fifth_item": "Fifth Item",
+    "first_item": "First Item",
+    "fourth_item": "Fourth Item",
+    "second_item": "Second Item",
+    "situational_items": "Situational Items",
+    "starter": "Starter",
+    "starting_items": "Starting Items",
+    "third_item": "Third Item",
+    "trinkets": "Trinkets"
+  },
+  "builds": {
+    "frequent": "Frequent",
+    "highest_core": "Highest Core",
+    "highest_items": "Highest Items",
+    "highest_start": "Highest Start",
+    "highest_win": "Highest Win",
+    "hw_core": "Highest Win % Core Build",
+    "hw_items": "Highest Win % Items",
+    "hw_starters": "Highest Win % Starters",
+    "mf_core": "Most Frequent Core Build",
+    "mf_items": "Most Frequent Items",
+    "mf_starters": "Most Frequent Starters",
+    "most_freq": "Most Frequent"
+  },
+  "options": {
+    "options_aram": "Download ARAM Item Sets",
+    "options_consumables": "Enable Consumables",
+    "options_consumables_tooltip": "By disabling consumables, you'll lose the Most Frequent skill order",
+    "options_dontdeleteold": "Don't Delete Outdated Item Sets",
+    "options_dontdeleteold_tooltip": "Old items sets without new patch information will not be deleted, however they will be deleted if newer item sets become available",
+    "options_locksr": "Lock Summoner's Rift Item Sets To Map",
+    "options_locksr_tooltip": "Item sets meant for Summoners Rift will only be available on the Summoners Rift map.",
+    "options_skillsformat": "Use Shorthand for Skill Order",
+    "options_skillsformat_tooltip": "Instead of",
+    "options_splititems": "Split Up Item Sets",
+    "options_splititems_tooltip": "Create separate item sets for Most Frequent and Highest Win %",
+    "options_trinkets": "Enable Trinkets",
+    "options_trinkets_tooltip": "By disabling trinkets, you'll lose the Highest Win % skill order"
+  },
+  "status_messages": {
+    "downloading": "Downloading",
+    "downloading_champs": "Downloading Champs from Riot",
+    "downloading_updates": "Downloading Updates...",
+    "extracting": "Extracting...",
+    "failed": "Failed",
+    "processing": "Processing",
+    "processing_rift": "Processing Rift",
+    "sending": "Sending...",
+    "sent": "Sent!"
+  },
+  "version_info": {
+    "cgg_version": "Getting Champion.gg Version",
+    "local_item_sets_version": "Local Item Sets Version",
+    "local_items_version": "Local Items Version",
+    "lol_version": "Getting LoL Version"
+  },
+  "actions": {
+    "manual_update": "Manual Update",
+    "open_log": "Open Log",
+    "start_league": "Start League of Legends",
+    "upload_log": "Upload Log"
+  }
+}

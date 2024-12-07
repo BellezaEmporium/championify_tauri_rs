@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Vypadá to, že máte verzi Championify, která nemůže být zaktualizována. Stiskněte tlačítko stáhnout a získejte nejnovější verzi.",
+  "error_1": "Zkoušeli jste spustit program jako administrátor?",
+  "error_2": "Nebo váš antivirus/firewall blokuje Championify?",
+  "error_3": "Máte zaplý internet?",
+  "error_4": "Pokud ne, potřebuji vaši pomoc pro zlepšení Championify! S vaším svolením tím, že stisknete \"Nahrát log\" uvidím přesný problém na Vašem počítači. Žádné osobní údaje nebudou odeslány. Díky!",
+  "invalid_path": "Neplatná cesta",
+  "select_folder": "Musíte nejprve vybrat složku!",
+  "something_broke": "Něco se rozbilo ...",
+  "sure_thats_league": "Jste si jistý, že je to LoL?"
+}

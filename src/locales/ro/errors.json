@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Se pare ca ai o versiune de Championify care nu poate fi actualizata de la sine. Apasă butonul de download pentru a obține cea mai recentă versiune!",
+  "error_1": "Ați încercat să rulați ca administrator?",
+  "error_2": "Antivirus-ul/firewall-ul blocheaza Championify?",
+  "error_3": "Internet-ul este pornit?",
+  "error_4": "Dacă nu, am nevoie de ajutorul dumneavoastra în stabilirea și îmbunătățirea Championify! Cu permisiunea dumneavoastră apăsând \"Încarcă Log\" eu mă pot uita peste fișierul jurnal și vedem ce nu a mers bine pe sistemul dumneavoastră. Nu există informații cu caracter personal care este trimis vreodată. Mulțumesc!",
+  "invalid_path": "Cale nevalidă",
+  "select_folder": "Trebuie să specifici folder-ul întai!",
+  "something_broke": "Ceva s-a stricat...",
+  "sure_thats_league": "Ești sigur că e League?"
+}

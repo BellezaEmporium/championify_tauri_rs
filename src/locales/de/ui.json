@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Lane",
+    "mid": "Mitte",
+    "middle": "Mitte",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "Top KDA-Gegenstand"
+  },
+  "game_modes": {
+    "all": "Alle",
+    "all_available": "Erledigt! Alles ist verfügbar!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Stiefel",
+    "consumables": "Verbrauchsgegenstände",
+    "core_alternatives": "Hauptgegenstands-Alternativen",
+    "core_items": "Hauptgegenstände",
+    "elixir": "Elixir",
+    "endgame_items": "Spielends-Gegenstände",
+    "fifth_item": "Fünfter Gegenstand",
+    "first_item": "Erster Gegenstand",
+    "fourth_item": "Vierter Gegenstand",
+    "second_item": "Zweiter Gegenstand",
+    "situational_items": "Situationelle Gegenstände",
+    "starter": "Starter",
+    "starting_items": "Start-Gegenstände",
+    "third_item": "Dritter Gegenstand",
+    "trinkets": "Schmuck"
+  },
+  "builds": {
+    "frequent": "Häufigste",
+    "highest_core": "Höchster Kern-Build",
+    "highest_items": "Höchster Gegenstand",
+    "highest_start": "Beliebteste Start-Items",
+    "highest_win": "Höchste Siegrate",
+    "hw_core": "Kern-Build mit höchster Siegesrate",
+    "hw_items": "Items mit höchster Siegesrate",
+    "hw_starters": "Start-Items mit höchster Siegesrate",
+    "mf_core": "Häufigstes Kern-Build",
+    "mf_items": "Die häufigsten Gegenstände",
+    "mf_starters": "Häufigste Start-Items",
+    "most_freq": "Am Häufigsten"
+  },
+  "options": {
+    "options_aram": "Herunterladen der ARAM Item-Sets",
+    "options_aram_tooltip": "ARAM-Item-Sets von LolFlavor herunterladen",
+    "options_consumables": "Verbrauchsgegenstände anzeigen",
+    "options_consumables_tooltip": "Durch das Deaktivieren der Verbrauchsgegenstände wird die beliebteste Fähigkeitsreihenfolge nicht mehr angezeigt",
+    "options_dontdeleteold": "Veraltete Item-Sets nicht löschen",
+    "options_dontdeleteold_tooltip": "Alte Item-Sets ohne neue Patch-Informationen werden nicht gelöscht,  sie werden jedoch gelöscht, sobald neuere Item Sets verfügbar sind",
+    "options_locksr": "Item-Sets der Karte \"Kluft der Beschwörer\" nur dort anzeigen",
+    "options_locksr_tooltip": "Item-Sets für die Kluft der Beschwörer werden nur auf der Kluft der Beschwörer-Karte zur Verfügung stehen.",
+    "options_skillsformat": "Kurzschreibweise für die Fähigkeitsreihenfolge verwenden",
+    "options_skillsformat_tooltip": "Anstatt von",
+    "options_splititems": "Item-Sets trennen",
+    "options_splititems_tooltip": "Erstellt separate Item-Sets für beliebteste Sets und Sets mit höchster Siegesrate",
+    "options_trinkets": "Schmuck anzeigen",
+    "options_trinkets_tooltip": "Durch das Deaktivieren der Verbrauchsgegenstände wird die Fähigkeitsreihenfolge mit höchster Siegesrate nicht mehr angezeigt"
+  },
+  "status_messages": {
+    "downloading": "Lade",
+    "downloading_champs": "Lade Champions von Riot",
+    "downloading_updates": "Updates werden heruntergeladen...",
+    "extracting": "Entpacke...",
+    "failed": "Fehlgeschlagen",
+    "processing": "Verarbeite",
+    "processing_rift": "Verarbeite Kluft der Beschwörer",
+    "sending": "Senden...",
+    "sent": "Abgeschickt!"
+  },
+  "version_info": {
+    "cgg_version": "Ermittle Champion.gg Version",
+    "local_item_sets_version": "Version der Lokalen Builds",
+    "local_items_version": "Version der Lokalen Builds",
+    "lol_version": "Ermittle LoL Version"
+  },
+  "actions": {
+    "manual_update": "Manuelles Update",
+    "open_log": "Log-Datei öffnen",
+    "start_league": "League of Legends starten",
+    "upload_log": "Log-Datei Hochladen"
+  }
+}

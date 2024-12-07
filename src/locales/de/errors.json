@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Es scheint, als hättest du eine Version von Championify, die nicht automatisch aktualisiert werden kann. Benutze den Download-Button, um die neueste Version zu erhalten!",
+  "error_1": "Hast du versucht Championify als Administrator auszuführen?",
+  "error_2": "Vielleicht blockiert deine Antivirus-Software / Firewall Championify?",
+  "error_3": "Internet verfügbar?",
+  "error_4": "Ich benötige Deine Hilfe beim Beheben von Bugs und  bei der Verbesserung von Championify! Indem Du auf \"Log-Datei Hochladen\" klickst, kann ich mir mit Deiner Erlaubnis die Log-Datei anschauen und sehen, was auf deinem System falsch lief. Persönliche Daten werden in keinem Fall gesendet. Vielen Dank!",
+  "invalid_path": "Ungültiger Pfad",
+  "select_folder": "Bitte wähle zuerst einen Ordner aus!",
+  "something_broke": "Etwas ist schief gelaufen...",
+  "sure_thats_league": "Bist du sicher, dass das League of Legends ist?"
+}

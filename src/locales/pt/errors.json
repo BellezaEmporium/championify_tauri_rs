@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Parece que a sua versão do Championify não pode ser atualizada por si própria. Carregue no botão de descarregar para obter a versão mais recente!",
+  "error_1": "Já tentou executar como administrador?",
+  "error_2": "Será que o seu antivírus/firewall está a bloquear o Championify?",
+  "error_3": "internet ligada?",
+  "error_4": "Se não, eu preciso da sua ajuda para reparar e melhorar o Championify! Com a sua permissão ao premir 'Carregar registo' posso analisar o arquivo de registo e ver o que correu mal no seu sistema. Nunca é enviada informação pessoal. Obrigado!",
+  "invalid_path": "Caminho inválido",
+  "select_folder": "É necessário selecionar a pasta primeiro!",
+  "something_broke": "Algo quebrou ...",
+  "sure_thats_league": "Tens a certeza que é o League?"
+}

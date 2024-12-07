@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "Стрелок",
+    "jungle": "Лес",
+    "lane": "Линия",
+    "mid": "Мид",
+    "middle": "Мид",
+    "support": "Поддержка",
+    "top": "Топ",
+    "top_kda_items": "Лучшие по KDA предметы"
+  },
+  "game_modes": {
+    "all": "Все",
+    "all_available": "Отлично! Все доступно!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Ботинки",
+    "consumables": "Расходуемые предметы",
+    "core_alternatives": "Альтернативные основные предметы",
+    "core_items": "Основные предметы",
+    "elixir": "Эликсир",
+    "endgame_items": "Конечные предметы",
+    "fifth_item": "Пятый предмет",
+    "first_item": "Первый предмет",
+    "fourth_item": "Четвертый предмет",
+    "second_item": "Второй предмет",
+    "situational_items": "Ситуационные предметы",
+    "starter": "Начальные",
+    "starting_items": "Начальные предметы",
+    "third_item": "Третий предмет",
+    "trinkets": "Тринкеты"
+  },
+  "builds": {
+    "frequent": "Популярное",
+    "highest_core": "Наилучшие основные предметы",
+    "highest_items": "Наилучшие предметы",
+    "highest_start": "Наилучшие стартовые предметы",
+    "highest_win": "Наивысший % побед",
+    "hw_core": "Основные предметы с наивысшим % побед",
+    "hw_items": "Предметы с наивысшим % побед",
+    "hw_starters": "Начальные предметы с наивысшим % побед",
+    "mf_core": "Самые популярные основные предметы",
+    "mf_items": "Самые популярные предметы",
+    "mf_starters": "Самые популярные начальные предметы",
+    "most_freq": "Самое популярное"
+  },
+  "options": {
+    "options_aram": "Скачивать наборы предметов для ARAM",
+    "options_aram_tooltip": "Скачивать наборы предметов для ARAM с LolFlavor",
+    "options_consumables": "Включить Расходуемые предметы",
+    "options_consumables_tooltip": "Отключив Расходуемые предметы, вы не увидите самый популярный порядок изучения умений",
+    "options_dontdeleteold": "Не удалять устаревшие наборы предметов",
+    "options_dontdeleteold_tooltip": "Старые наборы предметов будут удалены, как только появятся наборы предметов под новый патч",
+    "options_locksr": "Привязать наборы предметов для Ущелья Призывателей к карте",
+    "options_locksr_tooltip": "Наборы предметов предназначенные для Ущелья Призывателей будут доступны только на этой карте.",
+    "options_skillsformat": "Сокращенный порядок изучения умений",
+    "options_skillsformat_tooltip": "Вместо",
+    "options_splititems": "Разделить наборы предметов",
+    "options_splititems_tooltip": "Создать отдельные наборы для самых популярных предметов и для предметов с наивысшим % побед",
+    "options_trinkets": "Включить тринкеты",
+    "options_trinkets_tooltip": "Отключив тринкеты, вы не увидите порядок изучения умений с наивысшим % побед"
+  },
+  "status_messages": {
+    "downloading": "Загрузка",
+    "downloading_champs": "Загрузка чемпионов от Riot",
+    "downloading_updates": "Загрузка обновлений...",
+    "extracting": "Извлечение...",
+    "failed": "Не удалось",
+    "processing": "Обработка",
+    "processing_rift": "Обработка Ущелья Призывателей",
+    "sending": "Отправка...",
+    "sent": "Отправлено!"
+  },
+  "version_info": {
+    "cgg_version": "Узнаем версию Champion.gg",
+    "local_item_sets_version": "Версия локальных наборов предметов",
+    "local_items_version": "Версия локальных предметов",
+    "lol_version": "Получение версии Лиги"
+  },
+  "actions": {
+    "manual_update": "Ручное обновление",
+    "open_log": "Открыть лог",
+    "start_league": "Запуск Лиги Легенд",
+    "upload_log": "Отправить лог"
+  }
+}

@@ -1,0 +1,12 @@
+<div>
+  <% languages.forEach(function(lang) { %>
+    <div class='item' data-value='<%= lang.code %>' onclick='changeLanguage("<%= lang.code %>")'>
+      <i class='<%= lang.flag %> flag'></i> <%= lang.name %>
+    </div>
+  <% }); %>
+</div>
+<script>
+  function changeLanguage(langCode) {
+    window.api.changeLanguage(langCode);
+  }
+</script>

@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Näyttää siltä, että sinulla on Championifyn versio, joka ei voi päivittää itse itseään. Paina Lataa-nappia saadaksesi uusimman version!",
+  "error_1": "Yrititkö käynnistää ohjelman järjestelmänvalvojana?",
+  "error_2": "Tai estääkö virustorjunta/palomuuri Championifyn?",
+  "error_3": "Internet päällä?",
+  "error_4": "Jos ei, tarvitsen apuasi Championifyn korjaamiseen ja kehittämiseen! Painamalla Lähetä loki -nappia lähetät lokitiedoston minulle ja voin sen perusteella määrittää, mikä järjestelmässäsi meni pieleen. Mitään henkilökohtaisia tietoja ei lähetetä. Kiitos!",
+  "invalid_path": "Virheellinen polku",
+  "select_folder": "Sinun täytyy valita ensin kansio!",
+  "something_broke": "Jotain meni pieleen...",
+  "sure_thats_league": "Onko se varmasti oikea?"
+}

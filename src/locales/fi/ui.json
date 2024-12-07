@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Väylä",
+    "mid": "Mid",
+    "middle": "Mid",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "Parhaan KDA:n itemit"
+  },
+  "game_modes": {
+    "all": "Kaikki",
+    "all_available": "Jestas! Kaikki olivat saatavilla!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Kengät",
+    "consumables": "Kulutustavarat",
+    "core_alternatives": "Keskeiset item-vaihtoehdot",
+    "core_items": "Keskeiset itemit",
+    "elixir": "Eliksiiri",
+    "endgame_items": "Loppupelin itemit",
+    "fifth_item": "viides item",
+    "first_item": "ensimmäinen item",
+    "fourth_item": "neljäs item",
+    "second_item": "toinen item",
+    "situational_items": "Tapauskohtaiset itemit",
+    "starter": "Aloitus",
+    "starting_items": "aloitusitemit",
+    "third_item": "kolmas item",
+    "trinkets": "Trinketit"
+  },
+  "builds": {
+    "frequent": "Yleisin",
+    "highest_core": "Korkeimman voittoprosentin kokoonpano",
+    "highest_items": "Korkein Items",
+    "highest_start": "Suurimman voittoprosentin aloitus",
+    "highest_win": "Suurin voittoprosentti",
+    "hw_core": "Suurimman voittoprosentin kokoonpano",
+    "hw_items": "Suurimman voittoprosentin itemit",
+    "hw_starters": "Suurimman voittoprosentin aloitus",
+    "mf_core": "Yleisin ydinkokoonpano",
+    "mf_items": "Yleisimmät itemit",
+    "mf_starters": "Yleisin aloitus",
+    "most_freq": "Yleisin"
+  },
+  "options": {
+    "options_aram": "Lataa ARAMin item-setit",
+    "options_aram_tooltip": "Lataa ARAMin item-setit LolFlavorista",
+    "options_consumables": "Salli kulutustavarat",
+    "options_consumables_tooltip": "Poistamalla kulutustavarat, menetät yleisin taito järjestyksessä",
+    "options_dontdeleteold": "Älä poista vanhentuneita item-settejä",
+    "options_dontdeleteold_tooltip": "Jos vanhalle item-setille ei ole korvaajaa uudessa pätsissä, vanha item-setti säilytetään. Vanha item-setti kuitenkin poistetaan, jos korvaaja tulee saataville.",
+    "options_locksr": "Lukitse Summoner's Riftin item-setit kenttäänsä",
+    "options_locksr_tooltip": "Summoner's Riftille tarkoitetut item-setit ovat saatavilla ainoastaan Summoner's Riftissä",
+    "options_skillsformat": "Käytä tiivistettyä skill-järjestystä",
+    "options_skillsformat_tooltip": "Täyden skill-järjestyksen sijasta:",
+    "options_splititems": "Jaa item-setit osiin",
+    "options_splititems_tooltip": "Luo erillinen item-setti sekä yleisimmälle että suurimmalle voittoprosentille",
+    "options_trinkets": "Salli trinketit",
+    "options_trinkets_tooltip": "Poistamalla trinketit menetät myös skill-järjestyksen \"Suurin voittoprosentti\""
+  },
+  "status_messages": {
+    "downloading": "Ladataan",
+    "downloading_champs": "Ladataan championeja Riotilta",
+    "downloading_updates": "Ladataan päivityksiä...",
+    "extracting": "Puretaan...",
+    "failed": "Epäonnistui",
+    "processing": "Käsitellään",
+    "processing_rift": "Käsitellään Riftiä",
+    "sending": "Lähetetään...",
+    "sent": "Lähetetty!"
+  },
+  "version_info": {
+    "cgg_version": "Haetaan Champion.gg:n versio",
+    "local_item_sets_version": "Paikallisten item-settien versio",
+    "local_items_version": "Paikallisten itemien versio",
+    "lol_version": "Haetaan LoL-versio"
+  },
+  "actions": {
+    "manual_update": "Manuaalinen päivitys",
+    "open_log": "Avaa Loki",
+    "start_league": "Käynnistä League of Legends",
+    "upload_log": "Lähetä loki"
+  }
+}

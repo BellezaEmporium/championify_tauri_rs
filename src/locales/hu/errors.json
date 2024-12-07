@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Úgy néz ki, hogy a Championify ezen verziója nem tud magától frissülni. Kattints a letöltés gombra, hogy letölthesd a legújabb verziót!",
+  "error_1": "Próbáltad adminisztrátorként futtatni?",
+  "error_2": "Vagy a víruskeresőd / tűzfalad blokkolja a Championify-t?",
+  "error_3": "Van internetkapcsolatod?",
+  "error_4": "Ha nem, akkor szükségem van a segítségedre a Championify javításában és jobbá tételében! Amennyiben engedélyezed, a \"Napló feltöltése\" gombra kattintva meg tudom nézni mi okozta a hibát a rendszeredben. Semmilyen személyes információ nem lesz továbbítva. Köszönöm!",
+  "invalid_path": "Érvénytelen útvonal",
+  "select_folder": "Előbb válassza ki a mappát!",
+  "something_broke": "Valami elromlott...",
+  "sure_thats_league": "Biztos benne, hogy ez a League?"
+}

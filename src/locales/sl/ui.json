@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Lane",
+    "mid": "Bližnji",
+    "middle": "Middle",
+    "support": "Podpora",
+    "top": "Top",
+    "top_kda_items": "Top kDa Točke"
+  },
+  "game_modes": {
+    "all": "Vsi",
+    "all_available": "Nič! Vse je na voljo!",
+    "aram": "Aram"
+  },
+  "items": {
+    "boots": "Čevlji",
+    "consumables": "Consumabli",
+    "core_alternatives": "Ključne alternative",
+    "core_items": "Ključni itemi",
+    "elixir": "Elixir",
+    "endgame_items": "Končni itemi",
+    "fifth_item": "Fifth Element",
+    "first_item": "prva točka",
+    "fourth_item": "četrta točka",
+    "second_item": "druga točka",
+    "situational_items": "Situacijski itemi",
+    "starter": "Začetnik",
+    "starting_items": "Zagon Točke",
+    "third_item": "tretja točka",
+    "trinkets": "Trinketi"
+  },
+  "builds": {
+    "frequent": "Pogoste",
+    "highest_core": "Najvišje jedro",
+    "highest_items": "najvišje Točke",
+    "highest_start": "Najvišji začetek",
+    "highest_win": "Najvišja zmaga",
+    "hw_core": "Najvišja zmaga % osrednji build",
+    "hw_items": "Najvišje Win% artikli",
+    "hw_starters": "Največji % Zmag Začetniki",
+    "mf_core": "Najpogostejši osrednji build",
+    "mf_items": "Najpogostejši Točke",
+    "mf_starters": "Najpogostejši začetniki",
+    "most_freq": "Najbolj pogoste"
+  },
+  "options": {
+    "options_aram": "Naložite item sete za Aram",
+    "options_aram_tooltip": "Naložite item sete za Aram iz LoLFlavor",
+    "options_consumables": "Omogoči consumable",
+    "options_consumables_tooltip": "Onemogočite potrošni material, boste izgubili vrstni red najpogostejših spretnost",
+    "options_dontdeleteold": "Ne izbrišite zastarelih item setov",
+    "options_dontdeleteold_tooltip": "Stari item seti ne bodo izbrisani brez informacij o novem patchu, bodo pa izbrisani če bo na voljo novejši item set.",
+    "options_locksr": "V Summoner riftu nastavite item sete na mapo.",
+    "options_locksr_tooltip": "Item seti, ki so namenjeni samo Summoners riftu, bodo na voljo samo na Summoners riftu.",
+    "options_skillsformat": "Uporabite okrajšavo za skill order",
+    "options_skillsformat_tooltip": "Namesto",
+    "options_splititems": "Razdeli item sete",
+    "options_splititems_tooltip": "Ustvarite ločene item sete za najbolj uporabljene in najbolj uspešne",
+    "options_trinkets": "Omogoči trinkete",
+    "options_trinkets_tooltip": "Onemogočite nakit, boste izgubili zmaga vrstni red% spretnost"
+  },
+  "status_messages": {
+    "downloading": "Prenašam",
+    "downloading_champs": "Nalagam champe Riota",
+    "downloading_updates": "Prenašam posodobitve...",
+    "extracting": "Razširjam...",
+    "failed": "Ni uspelo",
+    "processing": "Procesiram",
+    "processing_rift": "Procesiram Rift",
+    "sending": "Pošiljam...",
+    "sent": "Poslano!"
+  },
+  "version_info": {
+    "cgg_version": "Pridobivam verzijo z Champion.gg",
+    "local_item_sets_version": "Lokalni Točka Nastavi Version",
+    "local_items_version": "Lokalne Točke Version",
+    "lol_version": "Pridobivam LoL verzijo..."
+  },
+  "actions": {
+    "manual_update": "Ročna posodobitev",
+    "open_log": "Odpri Dnevnik",
+    "start_league": "Začetek League of Legendsa",
+    "upload_log": "Naloži dnevnik"
+  }
+}

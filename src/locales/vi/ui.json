@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Đi rừng",
+    "lane": "Đi đường",
+    "mid": "Ở giữa",
+    "middle": "Đường giữa",
+    "support": "Ủng hộ",
+    "top": "Lên trên",
+    "top_kda_items": "Lên trên KDA mục"
+  },
+  "game_modes": {
+    "all": "Tất cả",
+    "all_available": "Không có gì! Mọi thứ đều sẵn sàng!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Giày ống",
+    "consumables": "Đồ tiêu thụ",
+    "core_alternatives": "Lựa chọn thay thế lõi",
+    "core_items": "Cac phụ kiện chinh",
+    "elixir": "Thuốc rượu",
+    "endgame_items": "Endgame mục",
+    "fifth_item": "Fifth mục",
+    "first_item": "Item đầu tiên",
+    "fourth_item": "Thứ tư hàng",
+    "second_item": "thứ hai mục",
+    "situational_items": "Items tình huống",
+    "starter": "Bộ khởi động",
+    "starting_items": "bắt đầu từ mục",
+    "third_item": "thứ ba mục",
+    "trinkets": "Nữ trang"
+  },
+  "builds": {
+    "frequent": "Thường xuyên",
+    "highest_core": "Cơ bản nhất",
+    "highest_items": "Items cao nhất",
+    "highest_start": "Bắt đầu nhiều nhất",
+    "highest_win": "Thắng nhiều nhất",
+    "hw_core": "Đồ cơ bản hiệu quả nhất",
+    "hw_items": "Cao nhất Win% mục",
+    "hw_starters": "Đồ xuất phát hiệu quả nhất",
+    "mf_core": "Đồ cơ bản dùng nhiều nhất",
+    "mf_items": "Mục thường xuyên nhất",
+    "mf_starters": "Đồ xuất phất dùng nhiều nhất",
+    "most_freq": "Dùng nhiều nhất"
+  },
+  "options": {
+    "options_aram": "Tải Aram mục Sets",
+    "options_aram_tooltip": "Tải bộ item Aram từ LolFlavor",
+    "options_consumables": "Kích hoạt đồ tiêu thụ",
+    "options_consumables_tooltip": "Bằng cách vô hiệu hóa hàng tiêu dùng, bạn sẽ mất trật tự kỹ năng thường xuyên nhất",
+    "options_dontdeleteold": "Đừng Xóa bảng đồ cũ",
+    "options_dontdeleteold_tooltip": "Mục cũ đặt mà không có thông tin bản vá mới sẽ không bị xóa, tuy nhiên chúng sẽ bị xóa nếu bộ item mới trở nên có sẵn",
+    "options_locksr": "Khóa Summoner của Rift mục Sets Để đồ",
+    "options_locksr_tooltip": "Bộ item có nghĩa là cho Summoner Rift sẽ chỉ có sẵn trên bản đồ Summoner Rift.",
+    "options_skillsformat": "Sử dụng Shorthand cho Skill thứ tự",
+    "options_skillsformat_tooltip": "Thay vì",
+    "options_splititems": "Chia nhỏ Up khoản Sets",
+    "options_splititems_tooltip": "Tạo bộ mục riêng cho Hầu hết thường xuyên và cao nhất Win%",
+    "options_trinkets": "Kích hoạt tính năng trang sức rẻ tiền",
+    "options_trinkets_tooltip": "Bằng cách vô hiệu nữ trang, bạn sẽ bị mất Win nhằm% kỹ năng cao nhất"
+  },
+  "status_messages": {
+    "downloading": "Đang tải",
+    "downloading_champs": "Tải tướng từ Riot",
+    "downloading_updates": "Đang tải cập nhật ...",
+    "extracting": "Đang giải nén ...",
+    "failed": "Thất bại",
+    "processing": "Chế biến",
+    "processing_rift": "Chế biến Rift",
+    "sending": "Đang gửi ...",
+    "sent": "Đã được gửi!"
+  },
+  "version_info": {
+    "cgg_version": "Bắt Champion.gg Version",
+    "local_item_sets_version": "Local mục Thiết Version",
+    "local_items_version": "Mục Local Version",
+    "lol_version": "Nhận phiên bản LoL"
+  },
+  "actions": {
+    "manual_update": "Cập nhật thủ công",
+    "open_log": "Mở Log",
+    "start_league": "Bắt đầu League of Legends",
+    "upload_log": "Tải lên Log"
+  }
+}

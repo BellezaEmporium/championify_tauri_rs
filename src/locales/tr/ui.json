@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "Nişancı",
+    "jungle": "Ormancı",
+    "lane": "Koridor",
+    "mid": "Orta",
+    "middle": "Orta Koridor",
+    "support": "Destek",
+    "top": "Yukarı Koridor",
+    "top_kda_items": "En KDA Öğeler"
+  },
+  "game_modes": {
+    "all": "Hepsi",
+    "all_available": "Hiçbir şey! Her şey mevcut!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Botlar",
+    "consumables": "Tek Kullanımlık Eşyalar",
+    "core_alternatives": "Çekirdek Alternatifler",
+    "core_items": "Çekirdek ürün",
+    "elixir": "Iksir",
+    "endgame_items": "Endgame Öğeler",
+    "fifth_item": "beşinci Madde",
+    "first_item": "ilk Öğe",
+    "fourth_item": "dördüncü Madde",
+    "second_item": "ikinci Öğe",
+    "situational_items": "Durumsal Öğeler",
+    "starter": "Starter",
+    "starting_items": "Öğeleri Başlangıç",
+    "third_item": "üçüncü Madde",
+    "trinkets": "Tek Kullanımlıklar"
+  },
+  "builds": {
+    "frequent": "Sık",
+    "highest_core": "En yüksek Genel",
+    "highest_items": "En yüksek Öğeler",
+    "highest_start": "En Fazla Başlanan",
+    "highest_win": "En Fazla Kazanan",
+    "hw_core": "En Fazla % Kazanan",
+    "hw_items": "En yüksek Win% Öğeler",
+    "hw_starters": "En Fazla Kazanan % Başlangıç",
+    "mf_core": "En Sık Kasılan",
+    "mf_items": "En Sık Öğeler",
+    "mf_starters": "En Sık Başlanan",
+    "most_freq": "En Sık"
+  },
+  "options": {
+    "options_aram": "ARAM Öğe Setleri İndir",
+    "options_aram_tooltip": "LolFlavor'dan ARAM eşya setlerini indir",
+    "options_consumables": "Tek kullanımlık eşyaları aktif et",
+    "options_consumables_tooltip": "sarf devre dışı bırakarak En Sık beceri sırasını kaybedersiniz",
+    "options_dontdeleteold": "Eski eşya setlerini silme",
+    "options_dontdeleteold_tooltip": "Eski eşya setleri yeni sürüm gelmeden silimeyecek, ancak yeni sürüm erişebilir olduğunda silinebilecektir.",
+    "options_locksr": "Sihirdar Vadisi eşya setlerini kitle",
+    "options_locksr_tooltip": "Sihirdar Vadisi eşya setleri sadece Sihirdar Vadisi'nde aktif olacaktır.",
+    "options_skillsformat": "Beceri Dizilimi İçin Kısaltma Kullanın",
+    "options_skillsformat_tooltip": "Yerine",
+    "options_splititems": "Eşya Setlerini Ayır",
+    "options_splititems_tooltip": "En Çok Kazanan ve En Sık Kasılan Eşya Setlerini Ayır",
+    "options_trinkets": "Tek Kullanımlıkları Etkinleştir",
+    "options_trinkets_tooltip": "ıvır zıvır devre dışı bırakarak en yüksek Win% beceri sırasını kaybedersiniz"
+  },
+  "status_messages": {
+    "downloading": "İndiriliyor",
+    "downloading_champs": "Şampiyonlara Erişiliyor",
+    "downloading_updates": "Güncellemeler İndiriliyor...",
+    "extracting": "Çıkartılıyor ...",
+    "failed": "Başarısız",
+    "processing": "İşleniyor",
+    "processing_rift": "Vadi işleniyor",
+    "sending": "Gönderiliyor ...",
+    "sent": "Gönderildi!"
+  },
+  "version_info": {
+    "cgg_version": "Champion.gg Versiyonuna Erişiliyor.",
+    "local_item_sets_version": "Yerel Ürün Sürüm Setleri",
+    "local_items_version": "Yerel öğeler Sürüm",
+    "lol_version": "LoL Sürümü Alınıyor"
+  },
+  "actions": {
+    "manual_update": "Manuel Güncelleme",
+    "open_log": "Kaydedilen veriyi aç",
+    "start_league": "League of Legends'ı Başlat",
+    "upload_log": "Veriyi Yükle"
+  }
+}

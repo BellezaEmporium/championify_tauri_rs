@@ -1,0 +1,19 @@
+<div class="one column row"></div>
+  <div class="error">
+    <h3><%= t('something_broke') %></h3>
+    <img alt="Broken" src="img/sad.png" />
+
+    <% if (error_message) { %>
+      <br />
+      <span class="message"><%= error_message %></span>
+    <% } %>
+
+    <p>
+      <%= t('error_1') %><br />
+      <%= t('error_2') %><br />
+      <%= t('error_3') %>
+    </p>
+    <br />
+    <button id="open_log" class="ui button blue"><%= t('open_log') %></button>
+  </div>
+</div>

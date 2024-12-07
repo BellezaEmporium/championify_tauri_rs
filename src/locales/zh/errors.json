@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Championify 無法自行更新。請點擊下載按鈕以獲取最新版本！",
+  "error_1": "您是否以系統管理者模式運行?",
+  "error_2": "您的防毒軟體/防火牆是否擋住 Championify?",
+  "error_3": "您的網際網路是否處在連線的狀態?",
+  "error_4": "如果以上方法都無效，您可以協助改善 Championify！點擊下面的按鈕以上傳錯誤記錄，我將能處理您的問題。上傳的錯誤記錄並不會包含任何個人資料，請您放心，謝謝你的協助！",
+  "invalid_path": "無效的路徑",
+  "select_folder": "您需要先選擇英雄聯盟的所在資料夾！",
+  "something_broke": "出錯啦...",
+  "sure_thats_league": "您確定這是英雄聯盟的資料夾？"
+}

@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Izgleda kao da imaš verziju Championify koja se ne može ažurirati na vlastitim. Hit gumb Preuzmi da biste dobili najnoviju verziju!",
+  "error_1": "Jeste li pokušali radi kao admin?",
+  "error_2": "Ili vaš antivirus / firewall blokira Championify?",
+  "error_3": "Internet upaljen?",
+  "error_4": "Ako ne, treba mi tvoja pomoć u popravljanje i poboljšanju Championify! Uz vašu dozvolu udarajući 'Upload Dnevnik' Ne mogu gledati preko datoteku dnevnika i vidjeti što je pošlo po zlu na vašem sistemu. Nema osobne informacije se ikada šalju. Hvala!",
+  "invalid_path": "Invalid staza",
+  "select_folder": "Potrebno je da prvo odaberete folder!",
+  "something_broke": "Nešto slomio ...",
+  "sure_thats_league": "Jesi li siguran da je to liga?"
+}

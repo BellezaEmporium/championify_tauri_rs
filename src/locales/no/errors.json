@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Det virker som du har en versjon av Championify som ikke kan bli oppdatert på egenhånd. Klikk på nedlastingsknappen for å få den nyeste versjonen!",
+  "error_1": "Har du prøvd å kjøre som administrator?",
+  "error_2": "Eller blokkerer antivirus/brannmur Championify?",
+  "error_3": "Er du tilkoblet internett?",
+  "error_4": "Hvis ikke, trenger jeg din hjelp til å fikse og forbedre Championify! Med din tillatelse ved å trykke \"Last opp logg\" kan jeg se over loggfilen og se hva som gikk galt på systemet ditt. Ingen personlig informasjon blir sendt. Takk!",
+  "invalid_path": "Ugyldig Sti",
+  "select_folder": "Du må velge mappen din først!",
+  "something_broke": "Noe brøt ...",
+  "sure_thats_league": "Du sikker på at det League?"
+}

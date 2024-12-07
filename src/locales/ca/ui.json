@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungla",
+    "lane": "Línea",
+    "mid": "Mig",
+    "middle": "Mig",
+    "support": "Suport",
+    "top": "Línea superior",
+    "top_kda_items": "Els Els més kDa"
+  },
+  "game_modes": {
+    "all": "Tot",
+    "all_available": "Res! Tot està disponible!",
+    "aram": "Aram"
+  },
+  "items": {
+    "boots": "Botes",
+    "consumables": "Consumibles",
+    "core_alternatives": "Alternatives Core",
+    "core_items": "Core Items",
+    "elixir": "Elixir",
+    "endgame_items": "Endgame Articles",
+    "fifth_item": "cinquè Element",
+    "first_item": "primer article",
+    "fourth_item": "quart punt",
+    "second_item": "En segon article",
+    "situational_items": "Items situacionals",
+    "starter": "Motor d'arrencada",
+    "starting_items": "A partir Articles",
+    "third_item": "tercer punt",
+    "trinkets": "Trinkets"
+  },
+  "builds": {
+    "frequent": "Freqüent",
+    "highest_core": "Millors items principals",
+    "highest_items": "Els articles més alts",
+    "highest_start": "Millor Inici",
+    "highest_win": "Major % de victòries",
+    "hw_core": "Build principal amb major % de victòries",
+    "hw_items": "Guanya més alts% dels articles",
+    "hw_starters": "Objectes inicials amb major % de victòries",
+    "mf_core": "Build principal mes freqüent",
+    "mf_items": "Els productes més freqüents",
+    "mf_starters": "Objectes inicials més freqüents",
+    "most_freq": "Més freqüents"
+  },
+  "options": {
+    "options_aram": "Descarregar conjunt d'elements per ARAM",
+    "options_aram_tooltip": "Descarregar conjunt d'elements per ARAM de LolFlavor",
+    "options_consumables": "Habilitar Subministraments",
+    "options_consumables_tooltip": "Mitjançant la desactivació dels consumibles, si no es perden de l'ordre d'habilitat més freqüent",
+    "options_dontdeleteold": "No eliminar conjunts d'elements antics",
+    "options_dontdeleteold_tooltip": "Els conjunts d'objectes antics sense nova informació no seran eliminats, però si seran eleminats si nous conjunts d'objectes estan disponibles",
+    "options_locksr": "Article Esquerda del Invocador bloquejat nomes per aquest mapa",
+    "options_locksr_tooltip": "Els conjunts d'elements destinats a l'Esquerda del Invocador només estaran disponibles al mapa Esquerda del Invocador.",
+    "options_skillsformat": "Utilitzeu la forma compacta de l'ordre d'abilitats",
+    "options_skillsformat_tooltip": "En comptes de",
+    "options_splititems": "Dividir conjunts d'elements",
+    "options_splititems_tooltip": "Crear conjunts d'elements separats per més freqüent i més alt % de victòries",
+    "options_trinkets": "Habilitar Trinkets",
+    "options_trinkets_tooltip": "Mitjançant la desactivació de quincalla, si no es perden l'ordre% d'habilitat més alta de victòries"
+  },
+  "status_messages": {
+    "downloading": "Descarregant",
+    "downloading_champs": "Descarregant campions desde Riot",
+    "downloading_updates": "Descarregant actualitzacions ...",
+    "extracting": "L'extraient de ...",
+    "failed": "Fracassat",
+    "processing": "Processant",
+    "processing_rift": "Processant l'esquerda del Invocador",
+    "sending": "Enviant ...",
+    "sent": "Enviat!"
+  },
+  "version_info": {
+    "cgg_version": "Obtenint versió de champion.gg",
+    "local_item_sets_version": "Article local conjunts de versions",
+    "local_items_version": "Els productes locals Versió",
+    "lol_version": "Aconseguint versió de LoL"
+  },
+  "actions": {
+    "manual_update": "Actualització manual",
+    "open_log": "Obrir registre",
+    "start_league": "Iniciar de League of Legends",
+    "upload_log": "Pujar la sessió"
+  }
+}

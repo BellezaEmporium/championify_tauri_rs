@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungla",
+    "lane": "Línea",
+    "mid": "Medio",
+    "middle": "Medio",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "Los productos Top KDA"
+  },
+  "game_modes": {
+    "all": "Todo",
+    "all_available": "¡Nada! ¡Todo está disponible!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Botas",
+    "consumables": "Consumibles",
+    "core_alternatives": "Alternativas Core",
+    "core_items": "Elementos básicos",
+    "elixir": "Elixir",
+    "endgame_items": "Endgame Artículos",
+    "fifth_item": "quinto Elemento",
+    "first_item": "primer artículo",
+    "fourth_item": "cuarto punto",
+    "second_item": "En segundo artículo",
+    "situational_items": "Artículos situacionales",
+    "starter": "Motor de arranque",
+    "starting_items": "A partir Artículos",
+    "third_item": "Tercer punto",
+    "trinkets": "Trinkets"
+  },
+  "builds": {
+    "frequent": "Frecuente",
+    "highest_core": "Mejores principales",
+    "highest_items": "Los artículos más altos",
+    "highest_start": "Mejor inicio",
+    "highest_win": "Objetos Principales con Mayor % de Victoria",
+    "hw_core": "Objetos Principales con Mayor % de Victoria",
+    "hw_items": "Gana más altos% de los artículos",
+    "hw_starters": "Objetos Iniciales con Mayor % de Victoria",
+    "mf_core": "Build base más frecuente",
+    "mf_items": "Los productos más frecuentes",
+    "mf_starters": "Iniciales más Frecuentes",
+    "most_freq": "Más Frecuente"
+  },
+  "options": {
+    "options_aram": "Descarga ARAM conjuntos de elementos",
+    "options_aram_tooltip": "Descarga los conjuntos de elementos ARAM de LolFlavor",
+    "options_consumables": "Habilitar Consumibles",
+    "options_consumables_tooltip": "Mediante la desactivación de los consumibles, si no se pierden del orden de habilidad más frecuente",
+    "options_dontdeleteold": "No Eliminar Conjuntos de Objetos Obsoletos",
+    "options_dontdeleteold_tooltip": "Los conjuntos sin información para el nuevo parche no se borrarán, pero sí lo harán si se encuentran otros actualizados",
+    "options_locksr": "Dejar Conjuntos de la Grieta del Invocador solo para este Mapa",
+    "options_locksr_tooltip": "Los conjuntos de objetos hechos para la Grieta del Invocador sólo aparecerán en la Grieta del Invocador.",
+    "options_skillsformat": "Usar abreviaturas para el orden de las habilidades",
+    "options_skillsformat_tooltip": "En lugar de",
+    "options_splititems": "Dividir conjuntos de objetos",
+    "options_splititems_tooltip": "Crear conjuntos de objetos separados para Más Frecuente y Mayor  % de Victoria",
+    "options_trinkets": "Habilitar Trinkets",
+    "options_trinkets_tooltip": "Mediante la desactivación de baratijas, si no se pierden la orden% de habilidad más alta de victorias"
+  },
+  "status_messages": {
+    "downloading": "Descargando",
+    "downloading_champs": "Descargando Campeones desde Riot",
+    "downloading_updates": "Descargando actualizaciones...",
+    "extracting": "Extrayendo...",
+    "failed": "Error",
+    "processing": "Procesando",
+    "processing_rift": "Procesando la Grieta",
+    "sending": "Enviando...",
+    "sent": "¡Enviado!"
+  },
+  "version_info": {
+    "cgg_version": "Obteniendo versión de Champion.gg",
+    "local_item_sets_version": "Artículo local conjuntos de versiones",
+    "local_items_version": "Locales Versión",
+    "lol_version": "Obteniendo Versión de LoL"
+  },
+  "actions": {
+    "manual_update": "Actualización Manual",
+    "open_log": "Abrir Registro",
+    "start_league": "Iniciar League of Legends",
+    "upload_log": "Subir registro"
+  }
+}

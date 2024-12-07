@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Ζούγκλα",
+    "lane": "Λωρίδα",
+    "mid": "Μέσης",
+    "middle": "Μέση",
+    "support": "Υποστηρικτής",
+    "top": "Eπάνω",
+    "top_kda_items": "Κορυφαία KDA Αντικείμενα"
+  },
+  "game_modes": {
+    "all": "Όλα",
+    "all_available": "Τα πάντα είναι διαθέσιμα!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Μπότες",
+    "consumables": "Αναλώσιμα",
+    "core_alternatives": "Εναλλακτικές λύσεις",
+    "core_items": "Βασικά Αντικείμενα",
+    "elixir": "Ελιξήριο",
+    "endgame_items": "Τελικά Αντικείμενα",
+    "fifth_item": "πέμπτο Στοιχείο",
+    "first_item": "πρώτη Θέση",
+    "fourth_item": "τέταρτη Θέση",
+    "second_item": "δεύτερο στοιχείο",
+    "situational_items": "Περιστασιακά Αντικείμενα",
+    "starter": "Αρχικά",
+    "starting_items": "Αντικείμενα Εκκίνησης",
+    "third_item": "Τρίτο Αντικείμενο",
+    "trinkets": "Φυλαχτά"
+  },
+  "builds": {
+    "frequent": "Συχνά",
+    "highest_core": "Συχνότερα Βασικά",
+    "highest_items": "υψηλότερη Είδη",
+    "highest_start": "Συχνότερη Έναρξη",
+    "highest_win": "Συχνότερη Nίκη",
+    "hw_core": "Συχνότερες Nίκες % Βασικού Χτισίματος",
+    "hw_items": "Υψηλότερη Win% Είδη",
+    "hw_starters": "Συχνότερες Nίκες % Αρχή",
+    "mf_core": "Πιο συχνό Χτίσιμο",
+    "mf_items": "Συχνότερες Είδη",
+    "mf_starters": "Πιο συχνή Αρχή",
+    "most_freq": "Πιο συχνά"
+  },
+  "options": {
+    "options_aram": "Κατεβάστε ARAM Σετ Θέση",
+    "options_aram_tooltip": "Κατεβάστε ARAM σύνολα στοιχείο από LolFlavor",
+    "options_consumables": "Ενεργοποίηση Αναλώσιμων",
+    "options_consumables_tooltip": "Με την απενεργοποίηση αναλώσιμα, θα χάσετε τις πιο συχνές σειρά δεξιοτήτων",
+    "options_dontdeleteold": "Μην διαγράψεις ξεπερασμένα σετ αντικειμένων",
+    "options_dontdeleteold_tooltip": "Παλιά σετ αντικειμένων χωρίς καινούργια ενημέρωση πληροφοριών δεν θα διαγράφονται, ωστόσο θα διαγράφονται εάν νέα σετ γίνουν διαθέσιμα",
+    "options_locksr": "Κλείδωμα αντικειμένων για το Φαράγγι των Επικαλεστών",
+    "options_locksr_tooltip": "Τα σετ αντικειμένων που προορίζονταν για το Φαράγγι των Επικαλεστών θα είναι διαθέσιμα μόνο για το χάρτη Φαράγγι των Επικαλεστών.",
+    "options_skillsformat": "Χρησιμοποιήστε τη συντομία για την σειρά των ικανοτήτων",
+    "options_skillsformat_tooltip": "Αντί",
+    "options_splititems": "Διαχωρισμός σετ αντικειμένων",
+    "options_splititems_tooltip": "Δημιουργία ξεχωριστών σετ αντικειμένων για Πιο Συχνές και Συχνότερες Νίκες%",
+    "options_trinkets": "Ενεργοποίηση Φυλαχτών",
+    "options_trinkets_tooltip": "Με την απενεργοποίηση μπιχλιμπίδια, θα χάσετε το μεγαλύτερο κέρδος, προκειμένου% δεξιότητα"
+  },
+  "status_messages": {
+    "downloading": "Λήψη",
+    "downloading_champs": "Λήψη Ηρώων της Riot",
+    "downloading_updates": "Λήψη ενημερώσεων...",
+    "extracting": "Εξαγωγή...",
+    "failed": "Αποτυχία",
+    "processing": "Επεξεργασία",
+    "processing_rift": "Επεξεργασία του Rift",
+    "sending": "Αποστολή...",
+    "sent": "Στάλθηκε!"
+  },
+  "version_info": {
+    "cgg_version": "Εισαγωγή Έκδοσης Champion.gg",
+    "local_item_sets_version": "Τοπική Θέση Ρυθμίζει Έκδοση",
+    "local_items_version": "Τοπική Είδη Έκδοση",
+    "lol_version": "Εισαγωγή έκδοσης LoL"
+  },
+  "actions": {
+    "manual_update": "Χειροκίνητη Ενημέρωση",
+    "open_log": "Άνοιγμα Καταγραφής",
+    "start_league": "Έναρξη League of Legends",
+    "upload_log": "Ανεβάσμα Kαταγραφής"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Giungla",
+    "lane": "Corsia",
+    "mid": "In mezzo",
+    "middle": "Mid",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "Top KDA"
+  },
+  "game_modes": {
+    "all": "Tutto",
+    "all_available": "Niente! È tutto disponibile!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Stivali",
+    "consumables": "Consumabili",
+    "core_alternatives": "Oggetti essenziali alternativi",
+    "core_items": "Oggetti essenziali",
+    "elixir": "Elisir",
+    "endgame_items": "Oggetti di fine partita",
+    "fifth_item": "Quinto Elemento",
+    "first_item": "primo elemento",
+    "fourth_item": "quarto punto",
+    "second_item": "seconda voce",
+    "situational_items": "Articoli situazionali",
+    "starter": "Inizio",
+    "starting_items": "Avvio Articoli",
+    "third_item": "terzo elemento",
+    "trinkets": "Trinket"
+  },
+  "builds": {
+    "frequent": "Frequente",
+    "highest_core": "Core Build - Maggiore Win%",
+    "highest_items": "Articoli più alti",
+    "highest_start": "Starter - Maggiore Win%",
+    "highest_win": "Maggiore Win%",
+    "hw_core": "Core Build - Maggiore Win%",
+    "hw_items": "Massima% Articoli Vinci",
+    "hw_starters": "Starter - Maggiore Win%",
+    "mf_core": "Core Build più frequente",
+    "mf_items": "Gli articoli più frequenti",
+    "mf_starters": "Starter più frequenti",
+    "most_freq": "Più frequenti"
+  },
+  "options": {
+    "options_aram": "Scarica set di oggetti per ARAM",
+    "options_aram_tooltip": "Scarica set di oggetti per ARAM da LolFlavor",
+    "options_consumables": "Abilita consumabili",
+    "options_consumables_tooltip": "Disattivando i materiali di consumo, si perde l'ordine abilità più frequente",
+    "options_dontdeleteold": "Non eliminare i set di oggetti antiquati",
+    "options_dontdeleteold_tooltip": "I vecchi set di oggetti senza informazioni sulla nuova patch non saranno eliminati, ma saranno sostituiti se sono disponibili set di oggetti più recenti",
+    "options_locksr": "Limita i set di oggetti per la Landa degli evocatori alla mappa",
+    "options_locksr_tooltip": "I set di oggetti per la Landa degli evocatori saranno disponibili solo nella mappa Landa degli evocatori.",
+    "options_skillsformat": "Usa abbreviazioni per l'ordine delle abilità",
+    "options_skillsformat_tooltip": "Invece di",
+    "options_splititems": "Dividi i set di oggetti",
+    "options_splititems_tooltip": "Crea set di oggetti separati per Più Frequenti e Maggiore Win%",
+    "options_trinkets": "Abilita Trinket",
+    "options_trinkets_tooltip": "Disattivando bigiotteria, perderai il più alto ordine% abilità Win"
+  },
+  "status_messages": {
+    "downloading": "Download in corso",
+    "downloading_champs": "Download dei campioni dalla Riot in corso",
+    "downloading_updates": "Download degli aggiornamenti in corso...",
+    "extracting": "Estrazione in corso...",
+    "failed": "Fallito",
+    "processing": "Elaborazione",
+    "processing_rift": "Elaborazione Landa",
+    "sending": "Inviando...",
+    "sent": "Inviato!"
+  },
+  "version_info": {
+    "cgg_version": "Sto scaricando la versione di Champion.gg",
+    "local_item_sets_version": "Voce locale Imposta Versione",
+    "local_items_version": "I prodotti locali Version",
+    "lol_version": "Sto ottenendo la versione di LoL"
+  },
+  "actions": {
+    "manual_update": "Aggiornamento manuale",
+    "open_log": "Apri i log",
+    "start_league": "Avvia League of Legends",
+    "upload_log": "Carica log"
+  }
+}

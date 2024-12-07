@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Izskatās, ka jums ir Championify versija, kas nevar tikt atjaunināta automātiksi. Spiežiet uz \"Lejupielādēt\" pogas, lai iegūtu jaunāko versiju!",
+  "error_1": "Vai jūs meiģinājāt palaist programmu kā administrators?",
+  "error_2": "Vai jūsu antivīrusu / ugunsmūris bloķē Championify?",
+  "error_3": "Vai jums ir interneta pieslēgums?",
+  "error_4": "Ja nē, man vajag jūsu palīdzību nosakot un uzlabojot Championify! Ar jūsu atļauju, trāpot \"Upload Log\" Es varu apskatīt log failu un redzēt, kas nogāja greizi jūsu sistēmā. Personīga informācija netiek sūtīta . Paldies!",
+  "invalid_path": "Nederīgs ceļš",
+  "select_folder": "Jums ir nepieciešams, lai izvēlētos mapi pirmais!",
+  "something_broke": "Kautkas nogāja greizi..",
+  "sure_thats_league": "Vai tu esi pārliecināts ka tas ir League of Legends?"
+}

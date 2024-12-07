@@ -1,0 +1,29 @@
+[package]
+name = "championify_tauri_rs"
+version = "0.1.0"
+description = "Lightweight rewrite of Championify in Rust using Tauri"
+authors = ["you"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+# The `_lib` suffix may seem redundant but it is necessary
+# to make the lib name unique and wouldn't conflict with the bin name.
+# This seems to be only an issue on Windows, see https://github.com/rust-lang/cargo/issues/8519
+name = "championify_tauri_rs_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2.0.3", features = [] }
+
+[dependencies]
+serde = { version = "1.0.215", features = ["derive"] }
+serde_json = "1.0.133"
+uuid = { version = "1.11.0", features = ["v4", "serde"] }
+tauri = { version = "2.1.1", features = ["tracing"] }
+tauri-plugin-window-state = "2.0.2"
+
+[features]
+default = ["custom-protocol"]
+custom-protocol = ["tauri/custom-protocol"]

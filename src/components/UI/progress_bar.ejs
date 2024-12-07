@@ -1,0 +1,12 @@
+<div
+  id="<%= id %>"
+  class="ui indicating progress"
+  data-percent="<%= percent || 0 %>"
+>
+  <div
+    class="bar"
+    style="transition-duration: <%= transitionMs || 300 %>ms; -webkit-transition-duration: <%= transitionMs || 300 %>ms"
+  >
+    <div class="progress"><%= percent || 0 %>%</div>
+  </div>
+</div>

@@ -1,0 +1,28 @@
+<% if (input.platform === 'darwin') { %>
+    <div class="osx_buttons">
+    <div class="clickable_div">
+        <a class="sys_button close" href="#">
+        <img alt="Close OSX button" src="@/assets/img/osx_buttons/close.png">
+        </a>
+    </div>
+    <div class="clickable_div">
+        <a class="sys_button minimize" href="#">
+        <img alt="Minimize OSX button" src="@/assets/img/osx_buttons/minimize.png">
+        </a>
+    </div>
+    <a class="sys_button maximize"></a>
+    </div>
+<% } %>
+<% if (input.platform === 'win32') { %>
+    <div class="win_buttons">
+    <div class="sys_button minimize"></div>
+        <img alt="Minimize Windows button" src="@/assets/img/win_buttons/minimize.png">
+    </div>
+    <div class="sys_button maximize">
+        <img alt="Maximize Windows button" src="@/assets/img/win_buttons/maximize.png">
+    </div>
+    <div class="sys_button close">
+        <img alt="Close Windows button" src="@/assets/img/win_buttons/x.png">
+    </div>
+    </div>
+<% } %>

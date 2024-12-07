@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Lane",
+    "mid": "Mitten",
+    "middle": "Mitten",
+    "support": "Stöd",
+    "top": "Topp",
+    "top_kda_items": "Top KDA Items"
+  },
+  "game_modes": {
+    "all": "Allt",
+    "all_available": "Ingenting! Allt är tillgängligt!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Stövlar",
+    "consumables": "Förbrukningsvaror",
+    "core_alternatives": "Kärn alternativ",
+    "core_items": "Kärn artiklar",
+    "elixir": "Elixir",
+    "endgame_items": "Endgame artiklar",
+    "fifth_item": "femte Punkt",
+    "first_item": "första punkt",
+    "fourth_item": "fjärde Punkt",
+    "second_item": "andra föremål",
+    "situational_items": "Situations artiklar",
+    "starter": "Starter",
+    "starting_items": "utgångs Items",
+    "third_item": "tredje Punkt",
+    "trinkets": "Prydnadssaker"
+  },
+  "builds": {
+    "frequent": "Frekvent",
+    "highest_core": "Högsta Kärna",
+    "highest_items": "högsta Items",
+    "highest_start": "Högsta Starta",
+    "highest_win": "Högsta Win",
+    "hw_core": "Högsta Vinst% Kärn Build",
+    "hw_items": "Högsta vinsten% Items",
+    "hw_starters": "Högsta Win% Förrätter",
+    "mf_core": "Vanligaste Kärna Build",
+    "mf_items": "Mest frekventa artiklar",
+    "mf_starters": "Mest Frekventa Förrätter",
+    "most_freq": "Mest Frekvent"
+  },
+  "options": {
+    "options_aram": "Hämta ARAM föremålsuppsättningar",
+    "options_aram_tooltip": "Hämta ARAM föremålsuppsättningar från LolFlavor",
+    "options_consumables": "Aktivera Förbruknings",
+    "options_consumables_tooltip": "Genom att inaktivera förbrukningsmaterial, förlorar du den vanligaste skicklighet ordning",
+    "options_dontdeleteold": "Inte bort Föråldrade föremålsuppsättningar",
+    "options_dontdeleteold_tooltip": "Gamla objekt sätter utan ny patch informationen inte kommer att tas bort, men de kommer att raderas om nyare föremålsuppsättningar blir tillgängliga",
+    "options_locksr": "Lock Kallat s Rift punkt Ställer Till Karta",
+    "options_locksr_tooltip": "Föremålsuppsättningar avsedda för uppbådare Rift kommer endast att vara tillgänglig på uppbådare Rift kartan.",
+    "options_skillsformat": "Använd en förkortning för Skill Order",
+    "options_skillsformat_tooltip": "Istället för",
+    "options_splititems": "Split Up föremålsuppsättningar",
+    "options_splititems_tooltip": "Skapa separata föremålsuppsättningar för de vanligaste och Högsta Vinst%",
+    "options_trinkets": "Aktivera Trinkets",
+    "options_trinkets_tooltip": "Genom att inaktivera prydnadssaker, förlorar du den högsta vinsten% skicklighet ordning"
+  },
+  "status_messages": {
+    "downloading": "Nedladdning",
+    "downloading_champs": "Hämtar hjältar från Riot",
+    "downloading_updates": "Hämtar uppdateringar...",
+    "extracting": "Extrahera ...",
+    "failed": "Misslyckades",
+    "processing": "Bearbetning",
+    "processing_rift": "Bearbetning Rift",
+    "sending": "Skickar ...",
+    "sent": "Skickats!"
+  },
+  "version_info": {
+    "cgg_version": "Hämtar Champion.gg Version",
+    "local_item_sets_version": "Lokal föremålsuppsättningar Version",
+    "local_items_version": "Lokala artiklar Version",
+    "lol_version": "Att få lol version"
+  },
+  "actions": {
+    "manual_update": "Manuell uppdatering",
+    "open_log": "Öppna logg",
+    "start_league": "Starta League of Legends",
+    "upload_log": "Ladda upp logg"
+  }
+}

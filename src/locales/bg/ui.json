@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Джунгла",
+    "lane": "Линия",
+    "mid": "среден",
+    "middle": "Mid",
+    "support": "Подкрепа",
+    "top": "Top",
+    "top_kda_items": "Top Ша артикули"
+  },
+  "game_modes": {
+    "all": "Всички",
+    "all_available": "Нищо! Всичко е на разположение!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Ботуши",
+    "consumables": "Косумативи",
+    "core_alternatives": "Основни Алтернативи",
+    "core_items": "Основни предмети",
+    "elixir": "Еликсир",
+    "endgame_items": "Endgame предмети",
+    "fifth_item": "Петата позиция",
+    "first_item": "Първа точка",
+    "fourth_item": "Четвъртата позиция",
+    "second_item": "Втората позиция",
+    "situational_items": "Ситуационен артикули",
+    "starter": "Стартер",
+    "starting_items": "Започвайки артикули",
+    "third_item": "Трета позиция",
+    "trinkets": "Тринкетс"
+  },
+  "builds": {
+    "frequent": "Често срещан",
+    "highest_core": "Най-висок основен",
+    "highest_items": "Най-високи позиции",
+    "highest_start": "Най-висок начален",
+    "highest_win": "Най-висока победа",
+    "hw_core": "Основен build с най-висок % победи",
+    "hw_items": "Най-високата печалба% Предмети",
+    "hw_starters": "Начален build с най-висок % победи",
+    "mf_core": "Най-честите основни buildове",
+    "mf_items": "Най-чести Точки",
+    "mf_starters": "Най-честите начални buildове",
+    "most_freq": "Най-честите"
+  },
+  "options": {
+    "options_aram": "Свали item sets за Арам",
+    "options_aram_tooltip": "Свали item sets за Арам от LolFlavor",
+    "options_consumables": "Активиране на консумативи(колби...)",
+    "options_consumables_tooltip": "Чрез блокирането консумативи, ще загубят най-честите реда умение",
+    "options_dontdeleteold": "Не изтривай стари Item Sets",
+    "options_dontdeleteold_tooltip": "Стари item sets без да има нов пач няма да бъдат изтрити, но ще бъдат ако се появят нови.",
+    "options_locksr": "Summoner's rift item sets да се показват само на тази карта.",
+    "options_locksr_tooltip": "Summoner's rift item sets да се показват само на тази карта.",
+    "options_skillsformat": "Използвайте съкращение за Skill Поръчка",
+    "options_skillsformat_tooltip": "Вместо",
+    "options_splititems": "Раздели Item Sets",
+    "options_splititems_tooltip": "Създаване на отделна позиция комплекти за най-често срещаните и най-високата печалба%",
+    "options_trinkets": "Активиране Тринкетс",
+    "options_trinkets_tooltip": "Чрез блокирането дрънкулки, ще загубят най-високата печалба ред% умение"
+  },
+  "status_messages": {
+    "downloading": "Сваляне",
+    "downloading_champs": "Изтегляне на герои от Riot",
+    "downloading_updates": "Изтегляне на актуализации ...",
+    "extracting": "Извличане ...",
+    "failed": "Неуспешно",
+    "processing": "Обработване",
+    "processing_rift": "Обработка Rift",
+    "sending": "Изпращане...",
+    "sent": "Изпратени!"
+  },
+  "version_info": {
+    "cgg_version": "Получаване на Champion.gg версията",
+    "local_item_sets_version": "Местно т Задава Version",
+    "local_items_version": "Местните артикули Version",
+    "lol_version": "Проверява се версията на LoL"
+  },
+  "actions": {
+    "manual_update": "Ръчно обновяване",
+    "open_log": "Отвори log",
+    "start_league": "Start League of Legends",
+    "upload_log": "Качване на Log"
+  }
+}

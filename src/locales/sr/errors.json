@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Izgleda da imate verziju Championify-a koja se ne može unaprediti sama. Kliknite na \"download\" dugme da preuzmete najnoviju verziju,",
+  "error_1": "Da li ste pokušali opciju \"run as admin \" / \" pokreni kao admin \"",
+  "error_2": "Ili vaš antivirus / firewall blokira Championify",
+  "error_3": "Da li internet radi ?",
+  "error_4": "Ako ne treba mi vaša pomoć u poboljašanju Championify-a ! Sa vaš dozvolom klikom na \"Upload Log \" mogu videti vaš log fajl i videti šta je pošlo naopako na vašem sistemu. Nikakve lične informacije neće biti poslate . Hvala !",
+  "invalid_path": "Неважећи Пут",
+  "select_folder": "Потребно је да прво одаберите фолдер!",
+  "something_broke": "Нешто сломио ...",
+  "sure_thats_league": "Јеси ли сигуран да је то лига?"
+}

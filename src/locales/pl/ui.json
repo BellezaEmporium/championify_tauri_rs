@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Dżungla",
+    "lane": "Aleja",
+    "mid": "Środkowy",
+    "middle": "Mid",
+    "support": "Support",
+    "top": "Top",
+    "top_kda_items": "Produkty Top KDA"
+  },
+  "game_modes": {
+    "all": "Wszystko",
+    "all_available": "Nic tu nie ma! Odnaleziono wszystkie szukane zestawy!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Buty",
+    "consumables": "Przedmioty jednorazowego użytku",
+    "core_alternatives": "Alternatywne przedmioty główne",
+    "core_items": "Główne przedmioty",
+    "elixir": "Eliksir",
+    "endgame_items": "Przedmioty końcowe",
+    "fifth_item": "Fifth Element",
+    "first_item": "pierwsza pozycja",
+    "fourth_item": "czwarta pozycja",
+    "second_item": "druga pozycja",
+    "situational_items": "Sytuacyjne przedmioty",
+    "starter": "Przedmioty początkowe",
+    "starting_items": "Począwszy przedmioty",
+    "third_item": "trzecia pozycja",
+    "trinkets": "Talizmany"
+  },
+  "builds": {
+    "frequent": "Popularny",
+    "highest_core": "Najlepsze główne przedmioty",
+    "highest_items": "najwyższe Pozycje",
+    "highest_start": "Najlepszy start",
+    "highest_win": "Największa szansa wygranej",
+    "hw_core": "Przedmioty główne z największą szansą wygranej",
+    "hw_items": "Najwyższe% Przedmioty Win",
+    "hw_starters": "Przedmioty początkowe z największą szansą wygranej",
+    "mf_core": "Najpopularniejsze przedmioty główne",
+    "mf_items": "Najczęstsze przedmioty",
+    "mf_starters": "Najpopularniejsze przedmioty początkowe",
+    "most_freq": "Najpopularniejsze"
+  },
+  "options": {
+    "options_aram": "Pobierz zestawy przedmiotów dla ARAM",
+    "options_aram_tooltip": "Pobierz zestawy przedmiotów dla ARAM z LolFlavor",
+    "options_consumables": "Pokazuj przedmioty jednorazowego użytku",
+    "options_consumables_tooltip": "Po wyłączeniu materiałów eksploatacyjnych, stracisz najczęstszą kolejność umiejętności",
+    "options_dontdeleteold": "Nie usuwaj starych zestawów przedmiotów",
+    "options_dontdeleteold_tooltip": "Stare zestawy przedmiotów nie zostaną usunięte przy braku danych z nowszego patcha, stanie się to tylko gdy dostępne będą ich uaktualnione wersje",
+    "options_locksr": "Zablokuj zestawy przedmiotów dla Summoner's Rift",
+    "options_locksr_tooltip": "Zestawy przedmiotów przeznaczone dla Summoner's Rift będą dostępne tylko na tej mapie",
+    "options_skillsformat": "Skrócona notacja ulepszania umiejętności",
+    "options_skillsformat_tooltip": "Zamiast",
+    "options_splititems": "Rozdziel zestawy przedmiotów",
+    "options_splititems_tooltip": "Tworzy dwa oddzielne zestawy: najpopularniejszy i ten z największą szansą wygranej",
+    "options_trinkets": "Włącz informacje o talizmanach",
+    "options_trinkets_tooltip": "Po wyłączeniu bibeloty, stracisz najwyższego rzędu wygrywają% umiejętności"
+  },
+  "status_messages": {
+    "downloading": "Pobieranie",
+    "downloading_champs": "Pobieranie Bohaterów od Riotu",
+    "downloading_updates": "Pobieranie aktualizacji...",
+    "extracting": "Rozpakowywanie...",
+    "failed": "Błąd",
+    "processing": "Przetwarzanie",
+    "processing_rift": "Przetwarzanie Summoner's Rift",
+    "sending": "Wysyłanie...",
+    "sent": "Wysłano!"
+  },
+  "version_info": {
+    "cgg_version": "Sprawdzanie wersji Champion.gg",
+    "local_item_sets_version": "Lokalny Punkt Ustawia wersja",
+    "local_items_version": "Lokalne Produkty Wersja",
+    "lol_version": "Wyszukiwanie wersji LoL"
+  },
+  "actions": {
+    "manual_update": "Ręczna aktualizacja",
+    "open_log": "Otworz raport",
+    "start_league": "Uruchom League of Legends",
+    "upload_log": "Prześlij raport"
+  }
+}

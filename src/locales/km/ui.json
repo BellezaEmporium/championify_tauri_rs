@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "ព្រៃ",
+    "lane": "ផ្លូវ",
+    "mid": "កណ្តាល",
+    "middle": "កណ្តាល",
+    "support": "ការគាំទ្រ",
+    "top": "កំពូល",
+    "top_kda_items": "ធាតុ KDA កំពូល"
+  },
+  "game_modes": {
+    "all": "ទាំងអស់",
+    "all_available": "គ្មានអ្វីសោះ! អ្វីគ្រប់យ៉ាងគឺអាចរកបាន!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "ស្បែកជើងកវែង",
+    "consumables": "គ្រឿងប្រើប្រាស់",
+    "core_alternatives": "ជំនួសស្នូល",
+    "core_items": "ធាតុ​ស្នូល",
+    "elixir": "Elixir",
+    "endgame_items": "ធាតុចុងក្រោយ",
+    "fifth_item": "វត្ថុទីប្រាំ",
+    "first_item": "ធាតុដំបូង",
+    "fourth_item": "ធាតុទីបួន",
+    "second_item": "ធាតុទីពីរ",
+    "situational_items": "ធាតុស្ថានភាព",
+    "starter": "ចាប់ផ្តើម",
+    "starting_items": "ចាប់ផ្ដើមធាតុ",
+    "third_item": "ធាតុទីបី",
+    "trinkets": "Trinkets"
+  },
+  "builds": {
+    "frequent": "ជាញឹកញាប់",
+    "highest_core": "ស្នូលខ្ពស់បំផុត",
+    "highest_items": "ទំនិញខ្ពស់បំផុត",
+    "highest_start": "ការចាប់ផ្តើមខ្ពស់បំផុត",
+    "highest_win": "ឈ្នះខ្ពស់បំផុត",
+    "hw_core": "ប្រាក់ឈ្នះ% ខ្ពស់បំផុត",
+    "hw_items": "ខ្ពស់បំផុត% ធាតុឈ្នះ",
+    "hw_starters": "អ្នកឈ្នះច្រើនបំផុតអ្នកចាប់ផ្តើមដំបូង",
+    "mf_core": "ស្ថាបនាស្នូលញឹកញាប់បំផុត",
+    "mf_items": "វត្ថុញឹកញាប់បំផុត",
+    "mf_starters": "អ្នកចាប់ផ្តើមញឹកញាប់បំផុត",
+    "most_freq": "ញឹកញាប់បំផុត"
+  },
+  "options": {
+    "options_aram": "ទាញយកធាតុរបស់ ARAM",
+    "options_aram_tooltip": "ទាញយកធាតុរបស់ ARAM ពី LolFlavor",
+    "options_consumables": "បើកដំណើរការប្រើប្រាស់",
+    "options_consumables_tooltip": "ដោយការបញ្ឈប់ការប្រើប្រាស់របស់អ្នកអ្នកនឹងបាត់បង់លំដាប់ជំនាញទូទៅបំផុត",
+    "options_dontdeleteold": "កុំលុបធាតុដែលហួសសម័យកំណត់",
+    "options_dontdeleteold_tooltip": "ធាតុចាស់ដែលបានកំណត់ដោយគ្មានពត៌មានបំណះថ្មីនឹងមិនត្រូវបានលុបទេទោះជាយ៉ាងណាពួកគេនឹងត្រូវបានលុបប្រសិនបើសំណុំធាតុថ្មីបានក្លាយជា",
+    "options_locksr": "ធាតុបណ្តោះអាសន្នរបស់ Lock Summoner កំណត់ទៅផែនទី",
+    "options_locksr_tooltip": "សំណុំធាតុដែលមានន័យសម្រាប់ការរំកិលរបស់ក្រុមការពារជាតិនឹងមាននៅលើផែនទី Rift របស់អ្នកកោះហៅ។",
+    "options_skillsformat": "ប្រើអក្ខរាវិរុទ្ធសម្រាប់លំដាប់ជំនាញ",
+    "options_skillsformat_tooltip": "ជំនួស​អោយ",
+    "options_splititems": "ពុះធាតុកំណត់",
+    "options_splititems_tooltip": "បង្កើតសំណុំធាតុដាច់ដោយឡែកសម្រាប់ភាគច្រើនបំផុតញឹកញាប់និងខ្ពស់បំផុតឈ្នះ%",
+    "options_trinkets": "បើកដំណើរការ Trinkets",
+    "options_trinkets_tooltip": "ដោយការបិទគ្រឿងអលង្ការអ្នកនឹងបាត់បង់លំដាប់ជំនាញ%% ខ្ពស់បំផុត"
+  },
+  "status_messages": {
+    "downloading": "កំពុងទាញយក",
+    "downloading_champs": "ទាញយកចាមពីកុប្បកម្ម",
+    "downloading_updates": "កំពុងទាញយកបច្ចុប្បន្នភាព ...",
+    "extracting": "ស្រង់ចេញ ...",
+    "failed": "បរាជ័យ",
+    "processing": "ដំណើរការ",
+    "processing_rift": "ដំណើរការ Rift",
+    "sending": "កំពុងផ្ញើ ...",
+    "sent": "បានផ្ញើទៅ!"
+  },
+  "version_info": {
+    "cgg_version": "ទទួលបានលេខកូដ Champion.gg",
+    "local_item_sets_version": "ធាតុមូលដ្ឋានកំណត់កំណែ",
+    "local_items_version": "កំណែធាតុមូលដ្ឋាន",
+    "lol_version": "ទទួលបានកំណែរ"
+  },
+  "actions": {
+    "manual_update": "ធ្វើបច្ចុប្បន្នភាពដោយដៃ",
+    "open_log": "បើកកំណត់ហេតុ",
+    "start_league": "ចាប់ផ្តើមសម្ព័ន្ធប្រជុំរឿងព្រេង",
+    "upload_log": "ផ្ទុកឡើងកំណត់ហេតុ"
+  }
+}

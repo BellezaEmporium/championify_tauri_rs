@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Votre version de Championify ne semble pas pouvoir effectuer de mise à jour automatique. Cliquez sur téléchargement pour obtenir la dernière version!",
+  "error_1": "Avez-vous essayer d'exécuter en tant qu'administrateur?",
+  "error_2": "Peut-être que vôtre antivirus / pare-feu bloque Championify?",
+  "error_3": "Êtes vous vraiment connecté à internet?",
+  "error_4": "Sinon, votre aide est vraiment précieuse dans l'amélioration de Championify! Si vous le voulez bien, en tappant 'Upload Log ' je peux regarder le fichier du journal et voir ce qui a planté sur votre système. Aucune information personnelle ne sera jamais envoyée. Merci!",
+  "invalid_path": "Chemin non valide",
+  "select_folder": "Vous devez sélectionner votre dossier d'abord!",
+  "something_broke": "Quelque chose ne s'est pas passé comme prévu ...",
+  "sure_thats_league": "Êtes vous sur qu'il s'agisse de vôtre client LoL ? Et pas d'un fichier compromettant ? ça serait gênant..."
+}

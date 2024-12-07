@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Parece que tienes una versión de Championify que no se puede actualizar por sí misma. ¡Pulsa el botón de descarga para obtener la última versión!",
+  "error_1": "¿Ha intentado ejecutarlo como administrador?",
+  "error_2": "¿O su antivirus/firewall está bloqueando Championify?",
+  "error_3": "¿Está conectado a Internet?",
+  "error_4": "Si no, ¡necesito tu ayuda para arreglar y mejorar Championify! Con tu permiso, si pulsas \"Subir Registro\" puedo mirar el archivo de registro y ver si pasó algo malo con tu sistema. No se enviará ninguna información personal. ¡Gracias!",
+  "invalid_path": "Ruta no válida",
+  "select_folder": "¡Tienes que seleccionar tu carpeta primero!",
+  "something_broke": "Algo no funciona...",
+  "sure_thats_league": "¿Estás seguro que es el LoL?"
+}

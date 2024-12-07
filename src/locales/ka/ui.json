@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Lane",
+    "mid": "შუა",
+    "middle": "ახლო",
+    "support": "მხარდაჭერა",
+    "top": "ყველაზე",
+    "top_kda_items": "ყველაზე kda საკითხი"
+  },
+  "game_modes": {
+    "all": "ყველა",
+    "all_available": "არაფერი! ყველაფერი შესაძლებელია!",
+    "aram": "Aram"
+  },
+  "items": {
+    "boots": "Boots",
+    "consumables": "სახარჯი",
+    "core_alternatives": "Core ალტერნატივები",
+    "core_items": "Core საკითხი",
+    "elixir": "Elixir",
+    "endgame_items": "Endgame საკითხი",
+    "fifth_item": "მეხუთე საქონელი",
+    "first_item": "პირველი საქონელი",
+    "fourth_item": "მეოთხე საქონელი",
+    "second_item": "მეორე საქონელი",
+    "situational_items": "სიტუაციური საკითხი",
+    "starter": "შემქმნელის",
+    "starting_items": "დასაწყისი საკითხი",
+    "third_item": "მესამე საქონელი",
+    "trinkets": "Trinkets"
+  },
+  "builds": {
+    "frequent": "ხშირი",
+    "highest_core": "უმაღლესი Core",
+    "highest_items": "უმაღლესი საკითხი",
+    "highest_start": "უმაღლესი დაწყება",
+    "highest_win": "უმაღლესი Win",
+    "hw_core": "უმაღლესი Win% Core Build",
+    "hw_items": "უმაღლესი Win% საკითხი",
+    "hw_starters": "უმაღლესი Win% იწყებენ",
+    "mf_core": "ყველაზე ხშირი Core Build",
+    "mf_items": "ყველაზე ხშირი საკითხი",
+    "mf_starters": "ყველაზე ხშირი იწყებენ",
+    "most_freq": "ყველაზე ხშირი"
+  },
+  "options": {
+    "options_aram": "ჩამოტვირთვა ARAM საქონელი Sets",
+    "options_aram_tooltip": "ჩამოტვირთვა ARAM ნივთი კომპლექტი LolFlavor",
+    "options_consumables": "ჩართვა სახარჯი",
+    "options_consumables_tooltip": "გამორთვა მასალები, თქვენ დასაკარგი ყველაზე ხშირი უნარი იმისათვის,",
+    "options_dontdeleteold": "ნუ წაშლა ვადაგასული საქონელი Sets",
+    "options_dontdeleteold_tooltip": "ძველი ნივთები ადგენს გარეშე ახალი პატჩი ინფორმაცია არ წაიშლება, თუმცა ისინი წაიშლება თუ ახალი ნივთი კომპლექტი ხელმისაწვდომი გახდა",
+    "options_locksr": "ჩაკეტვა Summoner ის განხეთქილების საქონელი კომპლექტი რუკა",
+    "options_locksr_tooltip": "საქონელი კომპლექტი განკუთვნილი Summoners განხეთქილების ხელმისაწვდომი იქნება მხოლოდ იმ Summoners განხეთქილების რუკაზე.",
+    "options_skillsformat": "გამოიყენეთ სტენოგრამის უნარი ბრძანება",
+    "options_skillsformat_tooltip": "იმის ნაცვლად,",
+    "options_splititems": "Split Up საქონელი Sets",
+    "options_splititems_tooltip": "შექმნა ცალკე ნივთი კომპლექტი ყველაზე ხშირი და უმაღლესი Win%",
+    "options_trinkets": "ჩართვა Trinkets",
+    "options_trinkets_tooltip": "გამორთვა trinkets, თქვენ დასაკარგი უმაღლესი Win% უნარი იმისათვის,"
+  },
+  "status_messages": {
+    "downloading": "გადმოწერა",
+    "downloading_champs": "ჩამოქაჩვა Champs ეხლა Riot",
+    "downloading_updates": "ჩამოქაჩვა განახლებები ...",
+    "extracting": "მოპოვების ...",
+    "failed": "ვერ მოხერხდა",
+    "processing": "გენერაციის",
+    "processing_rift": "გენერაციის Rift",
+    "sending": "იგზავნება ...",
+    "sent": "გაიგზავნა!"
+  },
+  "version_info": {
+    "cgg_version": "მიღების Champion.gg ვერსია",
+    "local_item_sets_version": "ადგილობრივი საქონელი აწესებს ვერსია",
+    "local_items_version": "ადგილობრივი საკითხი ვერსია",
+    "lol_version": "მიღების LoL ვერსია"
+  },
+  "actions": {
+    "manual_update": "სახელმძღვანელო განახლება",
+    "open_log": "Open შესვლა",
+    "start_league": "დაწყება ლეგენდების ლიგა",
+    "upload_log": "ატვირთვა შესვლა"
+  }
+}

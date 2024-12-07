@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Có vẻ như phiên bản Championify của bạn không thể tự cập nhật. Nhấn nút tải về để có được phiên bản mới nhất!",
+  "error_1": "Bạn đã thử chạy bằng quyền admin?",
+  "error_2": "Hoặc phần mềm diệt virus/tường lửa của bạn chặn Championify?",
+  "error_3": "Kết nối mạng?",
+  "error_4": "Nếu không, tôi cần sự giúp đỡ của bạn trong việc sửa chữa và cải thiện Championify! Với sự cho phép của bạn bằng cách nhấn nút \"Tải lên log\", tôi có thể xem qua các tập tin đăng nhập và xem những vấn đề trên hệ thống của bạn. Thông tin cá nhân của bạn sẽ không bao giờ bị gửi. Cảm ơn!",
+  "invalid_path": "Đường dẫn không hợp lệ",
+  "select_folder": "Bạn cần phải chọn thư mục đầu tiên của bạn!",
+  "something_broke": "Một cái gì đó đã phá vỡ ...",
+  "sure_thats_league": "Bạn chắc chắn đó là League?"
+}

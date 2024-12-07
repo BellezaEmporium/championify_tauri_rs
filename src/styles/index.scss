@@ -1,0 +1,111 @@
+@use 'osx_buttons';
+@use 'win_buttons';
+@use 'update';
+@use 'error';
+@use 'main';
+@use 'complete';
+@use 'breaking_changes';
+
+$vendor-prefixes: webkit official default;
+
+$background_color: #222222;
+$text_color: #eeebeb;
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../resources/assets/fonts/lato.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+body {
+  background-image: url('../resources/assets/images/ui/background.png');
+  background-color: $background_color;
+  color: $text_color;
+  font-family: 'Lato';
+  overflow: hidden;
+  user-select: none;
+}
+
+header {
+  height: 20px;
+  -webkit-app-region: drag;
+}
+
+.hidden {
+  display: none;
+}
+
+.locale_selector {
+  .ui.right.pointing.dropdown>.menu:after {
+    top: 5px;
+  }
+
+  .item {
+    -webkit-app-region: no-drag;
+  }
+
+  .ui.dropdown .menu {
+    -webkit-app-region: no-drag;
+  }
+
+  .ui.dropdown .scrolling.menu, .ui.scrolling.dropdown .menu {
+    max-height: 400px;
+    -webkit-app-region: no-drag;
+  }
+
+  -webkit-app-region: no-drag;
+  position: absolute;
+  top: 3px;
+}
+
+.banner {
+  position: relative;
+  text-align: center;
+  -webkit-app-region: drag;
+
+  .ui.divider {
+    margin: 0.23rem 0;
+  }
+}
+
+.top_logo {
+  height: 50px;
+  margin-bottom: 2px;
+  width: 50px;
+}
+
+$footer_bottom: 2px;
+$footer_side: 6px;
+
+footer {
+  background-color: $background_color;
+  bottom: 0;
+  display: block;
+  height: $footer_bottom + 20px;
+  position: absolute;
+  width: 100%;
+  z-index: 10;
+
+  > div {
+    a {
+      cursor: pointer;
+      &:hover {
+        color: $text_color;
+      }
+    }
+  }
+}
+
+.github {
+  text-align: center;
+}
+
+.championify_version {
+  bottom: $footer_bottom;
+  right: $footer_side;
+  position: absolute;
+  color: #989898;
+  cursor: default;
+}

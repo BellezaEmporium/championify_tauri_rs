@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Sembra che tu abbia una versione di Championify che non può essere aggiornata automaticamente. Premi il pulsante Scarica per scaricare l'ultima versione!",
+  "error_1": "Hai provato ad avviare Championify come amministratore?",
+  "error_2": "Oppure il tuo antivirus/firewall sta bloccando Championify?",
+  "error_3": "Sei connesso a internet?",
+  "error_4": "Ho bisogno del tuo aiuto nel risolvere problemi e migliorare Championify! Con il tuo permesso, cliccando su 'Carica Log' posso guardare il file di log e vedere cosa è andato storto sul tuo sistema. Nessuna informazione personale viene mai inviata. Grazie!",
+  "invalid_path": "Percorso non valido",
+  "select_folder": "Devi prima selezionare la cartella!",
+  "something_broke": "Qualcosa è andato storto...",
+  "sure_thats_league": "Sei sicuro che sia League of Legends?"
+}

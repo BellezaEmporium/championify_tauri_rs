@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Džungla",
+    "lane": "Lajna",
+    "mid": "prostredný",
+    "middle": "MID",
+    "support": "Support",
+    "top": "TOP",
+    "top_kda_items": "Top KDA položky"
+  },
+  "game_modes": {
+    "all": "Všetci",
+    "all_available": "Nič! Všetko, je k dispozícii!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Topánky",
+    "consumables": "Konzumovateľné",
+    "core_alternatives": "Alternatívy základu",
+    "core_items": "Hlavné itemy",
+    "elixir": "Elixír",
+    "endgame_items": "Itemy ku koncu hry",
+    "fifth_item": "piaty bod",
+    "first_item": "prvá položka",
+    "fourth_item": "štvrtý bod",
+    "second_item": "druhá položka",
+    "situational_items": "Situačné itemy",
+    "starter": "Spúšťač",
+    "starting_items": "spustenie položky",
+    "third_item": "tretia položka",
+    "trinkets": "Trinkety"
+  },
+  "builds": {
+    "frequent": "Časté",
+    "highest_core": "Najlepší základ",
+    "highest_items": "najväčšie položky",
+    "highest_start": "Najlepší začiatok",
+    "highest_win": "Najviac víťazstiev",
+    "hw_core": "Zostava s najviac víťazstvami v %",
+    "hw_items": "Najvyššia% položky Vyhrané",
+    "hw_starters": "Najvyššia výhra% Predjedlá",
+    "mf_core": "Najčastejšie zostavy",
+    "mf_items": "Najčastejšie položky",
+    "mf_starters": "Najčastejšie začiatočné zostavy",
+    "most_freq": "Najčastejšie"
+  },
+  "options": {
+    "options_aram": "Stiahnuť item sety pre ARAM",
+    "options_aram_tooltip": "Stiahnuť item sety pre ARAM z LoLFlavor",
+    "options_consumables": "Zapnúť konzumovateľné itemy",
+    "options_consumables_tooltip": "Zakázaním spotrebného materiálu, stratíte najčastejším zručnosti objednávku",
+    "options_dontdeleteold": "Nemazať staré item sety",
+    "options_dontdeleteold_tooltip": "Staré zostavy nebudú ostránené, avšak budú zmazené ak budú novšie zostavy k dispozícii",
+    "options_locksr": "Zamknúť Summoner Rift zostavy pre mapu",
+    "options_locksr_tooltip": "Zostavy určené pre Summoners Rift budú k dispozícii iba na mape Summoners Rift.",
+    "options_skillsformat": "Použiť skratku pre poradie skillov",
+    "options_skillsformat_tooltip": "Namiesto",
+    "options_splititems": "Rozdeliť zostavy",
+    "options_splititems_tooltip": "Vytvoriť samostatné sady zostáv pre najčastejšie a najviac výhier v %",
+    "options_trinkets": "Zapnúť trinkety",
+    "options_trinkets_tooltip": "Zakázaním čačky, stratíte najvyššia výhra% zručnosť poradí"
+  },
+  "status_messages": {
+    "downloading": "Sťahovanie",
+    "downloading_champs": "Sťahovanie šampiónov z Riotu",
+    "downloading_updates": "Sťahovanie aktualizácií...",
+    "extracting": "Rozbaľovanie...",
+    "failed": "Zlyhanie",
+    "processing": "Spracovanie",
+    "processing_rift": "Spravovanie Riftu",
+    "sending": "Odosielanie...",
+    "sent": "Odoslané!"
+  },
+  "version_info": {
+    "cgg_version": "Získavam verziu Champion.gg",
+    "local_item_sets_version": "Miestne položky Nastavenie verzia",
+    "local_items_version": "Miestne položky Version",
+    "lol_version": "Získavanie verzie LoLka"
+  },
+  "actions": {
+    "manual_update": "Ručná aktualizácia",
+    "open_log": "Otvoriť log",
+    "start_league": "Spustiť League of Legends",
+    "upload_log": "Nahrať log"
+  }
+}

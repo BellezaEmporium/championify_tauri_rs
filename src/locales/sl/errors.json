@@ -1,0 +1,11 @@
+{
+  "breaking_changes_1": "Izgleda, da imate različico Championify, ki se ne more posodobiti sama. Pritisnite gumb download za prenos najnovejše verzije!",
+  "error_1": "Ste program poizkusili zagnati kot admin?",
+  "error_2": "Ali pa vaš antivirus / firewall blokira Championify?",
+  "error_3": "Imate vklopljen internet?",
+  "error_4": "Če ne, rabim vašo pomoč pri popravljanju in izboljševanju programa Championify! Z vašim dovoljenjem, ko pritisnete \"Naloži dnevnik\"  lahko jaz pregledam log datoteko in si ogledam, kaj je šlo narobe na vašem sistemu. Nobeni osebni podatki ne bodo poslani nikamor. Hvala!",
+  "invalid_path": "Neveljavna pot",
+  "select_folder": "Najprej morate izbrati mapo",
+  "something_broke": "Nekaj ​​se je zalomilo",
+  "sure_thats_league": "Si prepričan, da je to LoL?"
+}

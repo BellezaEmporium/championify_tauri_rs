@@ -1,0 +1,103 @@
+<div class="one column row">
+  <div class="banner column">
+    <img class="top_logo" alt="Championify logo" src="@/assets/images/ui/logo.png">
+    <div class="ui divider"></div>
+  </div>
+</div>
+<main>
+  <%- include ('../components/Modals/delete_notification') %>
+  <div class="one column row optionsrow">
+    <div class="column">
+      <div class="browse_title">
+        <span><%= browse_title %></span>
+      </div>
+      <div class="ui fluid action input lol_dir_input"></div>
+        <input id="install_path" type="text">
+        <button id="browse" class="ui grey button" type="button"><%= t('browse') %></button>
+      </div>
+      <br>
+      <div class="lol_dir_input_msg">
+        <span id="input_msg"></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="one column row optionsrow">
+    <div class="column options">
+      <div class="rift_source">
+        <div class="ui fluid multiple search selection dropdown">
+          <input id="options_sr_source" type="hidden" value="<%= selected_sources %>">
+          <i class="dropdown icon"></i>
+          <div class="default text"><%= t('summoners_rift_source') %></div>
+          <div class="menu">
+            <% sources.forEach(function(source) { %>
+              <div class="item" data-value="<%= source.id %>">
+                <img class="sourceicon" alt="LoL scraping source logo" src="img/sources/<%= source.id %>.png">
+                <%= source.name %>
+              </div>
+            <% }); %>
+          </div>
+        </div>
+      </div>
+
+      <div class="ui checkbox left">
+        <input id="options_aram" type="checkbox">
+        <label class="options_tooltip" data-content="<%= t('options_aram_tooltip') %>"><%= t('options_aram_tooltip') %></label>
+      </div>
+      <br>
+      <div class="ui checkbox left">
+        <input id="options_splititems" type="checkbox">
+        <label class="options_tooltip" data-content="<%= t('options_splititems_tooltip') %>"><%= t('options_splititems') %></label>
+      </div>
+      <br>
+      <div class="ui checkbox left">
+        <input id="options_skillsformat" type="checkbox">
+        <label class="options_tooltip" data-content="<%= t('options_skillsformat_tooltip') %> Q.W.E.Q.W.R.Q.W.Q.W etc."><%= t('options_skillsformat') %> (Q>W>E)</label>
+      </div>
+      <br>
+    </div>
+  </div>
+
+  <div class="one column row">
+    <div id="btns_versions">
+      <div class="submit_btns">
+        <div class="ui divider"></div>
+        <button id="import_btn" class="ui green button"><%= t('import') %></button>
+        <button id="delete_btn" class="ui red button"><%= t('delete') %></button>
+      </div>
+      <br>
+      <div class="versions">
+        <div>
+          <%= t('local_items_version') %>:
+          <span id="local_version"><%= t('unknown') %></span>
+        </div>
+        <div>
+          LoL <%= t('version') %>:
+          <span id="lol_version"><%= t('loading') %></span>
+        </div>
+        <% sources.forEach(function(source) { %>
+          <div>
+            <%= source.name %> <%= t('version') %>:
+            <span id="<%= source.id %>_version"><%= t('loading') %></span>
+          </div>
+        <% }); %>
+      </div>
+    </div>
+
+    <div id="process_log" class="hidden"></div>
+      <div class="status">
+        <div class="ui horizontal divider">
+          <h2><%= t('status') %></h2>
+        </div>
+        <div id="itemsets_progress_bar" class="ui indicating progress" data-percent="0"></div>
+          <div class="bar" style="transition-duration: 300ms; -webkit-transition-duration: 300ms;">
+            <div class="progress">0%</div>
+          </div>
+        </div>
+      </div>
+      <div class="progresslog">
+        <div id="cl_progress"></div>
+      </div>
+    </div>
+  </div>
+</main>

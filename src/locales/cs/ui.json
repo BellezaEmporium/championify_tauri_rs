@@ -1,0 +1,87 @@
+{
+  "positions": {
+    "adc": "ADC",
+    "jungle": "Jungle",
+    "lane": "Pruh",
+    "mid": "Střední",
+    "middle": "Střední",
+    "support": "Podpora",
+    "top": "Top",
+    "top_kda_items": "Top KDA položky"
+  },
+  "game_modes": {
+    "all": "Všichni",
+    "all_available": "Nic! Vše, co je k dispozici!",
+    "aram": "ARAM"
+  },
+  "items": {
+    "boots": "Vysoké boty",
+    "consumables": "Elixíry",
+    "core_alternatives": "Základní Alternativy",
+    "core_items": "Stěžejní položky",
+    "elixir": "Elixir",
+    "endgame_items": "Endgame položky",
+    "fifth_item": "pátý bod",
+    "first_item": "první položka",
+    "fourth_item": "čtvrtý bod",
+    "second_item": "druhá položka",
+    "situational_items": "Situační položky",
+    "starter": "Starter",
+    "starting_items": "Spuštění položky",
+    "third_item": "třetí položka",
+    "trinkets": "Cetky"
+  },
+  "builds": {
+    "frequent": "Častý",
+    "highest_core": "Nejčetnější základ",
+    "highest_items": "Největší položky",
+    "highest_start": "Nejčetnější začáteční",
+    "highest_win": "Nejvyšší Win",
+    "hw_core": "Nejčetnější build (% výhry)",
+    "hw_items": "Nejvyšší% položky Vyhrané",
+    "hw_starters": "Nejčetnější začátek (% výhry)",
+    "mf_core": "Nejčastější Základní předměty",
+    "mf_items": "Nejčastější položky",
+    "mf_starters": "Nejčastější Začáteční předměty",
+    "most_freq": "Nejčastější"
+  },
+  "options": {
+    "options_aram": "Stáhněte si Aram Item Sady",
+    "options_aram_tooltip": "Stáhněte si Aram položky sestavy z LolFlavor",
+    "options_consumables": "Povolit Spotřební materiál",
+    "options_consumables_tooltip": "Zakázáním spotřebního materiálu, ztratíte nejčastějším dovednosti objednávku",
+    "options_dontdeleteold": "Nemazat staré verze sad",
+    "options_dontdeleteold_tooltip": "Staré sady pro starší verzi budou vymazány jenom tehdy, pokud je dostupná sada pro novější verzi.",
+    "options_locksr": "Používat sady pro Vyvolávačův Žleb jen na Vyvolávačově Žlebu.",
+    "options_locksr_tooltip": "Sady určené pro Vyvolávačův Žleb budou dostupné jenom na Vyvolávačově Žlebu.",
+    "options_skillsformat": "Použijte zkratku pro pořadí schopností",
+    "options_skillsformat_tooltip": "Místo",
+    "options_splititems": "Rozdělit sady",
+    "options_splititems_tooltip": "Vytvořit samostatné sady pro Nejčastější a Nejvyšší výhry",
+    "options_trinkets": "Povolit ceteky",
+    "options_trinkets_tooltip": "Zakázáním cetky, ztratíte nejvyšší výhra% dovednost pořadí"
+  },
+  "status_messages": {
+    "downloading": "Stahování",
+    "downloading_champs": "Stahování postav z Riot",
+    "downloading_updates": "Stahování aktualizace ...",
+    "extracting": "Rozbalování ...",
+    "failed": "Nepodařilo",
+    "processing": "Zpracování",
+    "processing_rift": "Zpracovává se pro Žleb",
+    "sending": "Odesílání ...",
+    "sent": "Odesláno!"
+  },
+  "version_info": {
+    "cgg_version": "Získání Champion.gg verze",
+    "local_item_sets_version": "Místní položky Nastavení verze",
+    "local_items_version": "Místní položky Version",
+    "lol_version": "Získání LoL verze"
+  },
+  "actions": {
+    "manual_update": "Ruční aktualizace",
+    "open_log": "Otevřít protokol",
+    "start_league": "Spustit League of Legends",
+    "upload_log": "Nahrát log"
+  }
+}
